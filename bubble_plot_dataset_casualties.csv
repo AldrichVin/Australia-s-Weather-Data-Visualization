@@ -1,0 +1,2064 @@
+year,country,continent,event_type,avg_severity,total_economic_impact_million_usd,total_casualties,n_events,region_group
+2020,Argentina,Americas,Drought,3,0.02,14,1,Rest of World
+2020,Argentina,Americas,Earthquake,2,0.01,24,2,Rest of World
+2020,Argentina,Americas,Flood,7,0.12,520,1,Rest of World
+2020,Argentina,Americas,Hailstorm,8,0.02,285,1,Rest of World
+2020,Argentina,Americas,Heatwave,5,3.84,34,1,Rest of World
+2020,Argentina,Americas,Landslide,2,0.02,29,2,Rest of World
+2020,Argentina,Americas,Wildfire,5,0.8600000000000001,56,2,Rest of World
+2020,Australia,Oceania,Cold Wave,8,38.34,188,1,Australia
+2020,Australia,Oceania,Drought,3,2.42,18,1,Australia
+2020,Australia,Oceania,Earthquake,3,0.02,13,1,Australia
+2020,Australia,Oceania,Hailstorm,6,1.18,410,2,Australia
+2020,Australia,Oceania,Heatwave,6.5,5.42,201,2,Australia
+2020,Australia,Oceania,Hurricane,1,0.02,2,1,Australia
+2020,Australia,Oceania,Landslide,8,0.59,73,1,Australia
+2020,Austria,Europe,Cold Wave,6,2.19,35,1,Rest of World
+2020,Austria,Europe,Earthquake,1.5,0,12,2,Rest of World
+2020,Austria,Europe,Hailstorm,5.5,0.16,51,2,Rest of World
+2020,Austria,Europe,Heatwave,5,2.04,31,1,Rest of World
+2020,Austria,Europe,Landslide,4,0.07,32,1,Rest of World
+2020,Austria,Europe,Tornado,7,0.38,549,1,Rest of World
+2020,Austria,Europe,Tsunami,2,0.01,10,1,Rest of World
+2020,Austria,Europe,Volcanic Eruption,1,0.04,9,1,Rest of World
+2020,Bangladesh,Asia,Drought,4,0.03,21,1,Rest of World
+2020,Bangladesh,Asia,Earthquake,5,0.01,25,1,Rest of World
+2020,Bangladesh,Asia,Flood,6,2.95,40,1,Rest of World
+2020,Bangladesh,Asia,Hailstorm,2,0.01,8,1,Rest of World
+2020,Bangladesh,Asia,Hurricane,3,0.05,8,1,Rest of World
+2020,Bangladesh,Asia,Landslide,4.5,0.05,52,2,Rest of World
+2020,Bangladesh,Asia,Tsunami,2,0,13,1,Rest of World
+2020,Belgium,Europe,Drought,5,10.17,478,3,Rest of World
+2020,Belgium,Europe,Flood,5.5,0.15,125,2,Rest of World
+2020,Belgium,Europe,Hailstorm,1,0,5,1,Rest of World
+2020,Belgium,Europe,Hurricane,3,0.01,15,1,Rest of World
+2020,Belgium,Europe,Tornado,1,0,6,1,Rest of World
+2020,Belgium,Europe,Wildfire,4,0.72,22,1,Rest of World
+2020,Brazil,Americas,Cold Wave,3.6666666666666665,6.99,68,3,Rest of World
+2020,Brazil,Americas,Hailstorm,2,0.31,8,1,Rest of World
+2020,Brazil,Americas,Heatwave,5,4.8,22,1,Rest of World
+2020,Brazil,Americas,Hurricane,3,0.32,35,2,Rest of World
+2020,Brazil,Americas,Tsunami,1,0,11,1,Rest of World
+2020,Canada,Americas,Drought,4.5,1.74,37,2,Rest of World
+2020,Canada,Americas,Earthquake,2,0.06,9,1,Rest of World
+2020,Canada,Americas,Hailstorm,6.5,2.42,198,2,Rest of World
+2020,Canada,Americas,Heatwave,4,6.84,51,2,Rest of World
+2020,Canada,Americas,Tornado,5,0.18,61,2,Rest of World
+2020,Canada,Americas,Wildfire,1,0.22,5,1,Rest of World
+2020,Chile,Americas,Cold Wave,4,2.97,28,1,Rest of World
+2020,Chile,Americas,Drought,4,0.88,29,1,Rest of World
+2020,Chile,Americas,Earthquake,1,0,12,2,Rest of World
+2020,Chile,Americas,Heatwave,4,2.5799999999999996,35,2,Rest of World
+2020,Chile,Americas,Landslide,3.5,0.05,32,2,Rest of World
+2020,Chile,Americas,Tornado,3,0.01,20,1,Rest of World
+2020,Chile,Americas,Tsunami,3,0.01,17,1,Rest of World
+2020,Chile,Americas,Volcanic Eruption,2,0,9,1,Rest of World
+2020,China,Asia,Tornado,3,1.57,29,1,Rest of World
+2020,China,Asia,Tsunami,3,2.31,35,2,Rest of World
+2020,China,Asia,Wildfire,4,10.31,28,1,Rest of World
+2020,Colombia,Americas,Cold Wave,3,0.63,16,1,Rest of World
+2020,Colombia,Americas,Earthquake,1,0.01,12,2,Rest of World
+2020,Colombia,Americas,Flood,2,0.01,11,1,Rest of World
+2020,Colombia,Americas,Hailstorm,3,0.01,22,1,Rest of World
+2020,Colombia,Americas,Hurricane,2.6666666666666665,0.17,49,3,Rest of World
+2020,Colombia,Americas,Volcanic Eruption,1,0,3,1,Rest of World
+2020,Czech Republic,Europe,Cold Wave,5.75,21.03,399,4,Rest of World
+2020,Czech Republic,Europe,Drought,5.5,0.6000000000000001,253,2,Rest of World
+2020,Czech Republic,Europe,Flood,6,0.42,36,1,Rest of World
+2020,Czech Republic,Europe,Heatwave,3,0.07,29,2,Rest of World
+2020,Czech Republic,Europe,Landslide,3,0.04,53,3,Rest of World
+2020,Czech Republic,Europe,Tornado,3,0.01,18,1,Rest of World
+2020,Czech Republic,Europe,Tsunami,3,0.04,14,1,Rest of World
+2020,Czech Republic,Europe,Wildfire,3.5,0.45,45,2,Rest of World
+2020,Denmark,Europe,Drought,4,0.11,18,1,Rest of World
+2020,Denmark,Europe,Earthquake,4,0.05,19,1,Rest of World
+2020,Denmark,Europe,Flood,3,0.08,15,1,Rest of World
+2020,Denmark,Europe,Hailstorm,5.666666666666667,0.19999999999999998,102,3,Rest of World
+2020,Denmark,Europe,Heatwave,3,0.03,11,1,Rest of World
+2020,Denmark,Europe,Tornado,2,0,14,2,Rest of World
+2020,Egypt,Africa,Cold Wave,4,0.15,17,1,Rest of World
+2020,Egypt,Africa,Drought,3,0.33,31,2,Rest of World
+2020,Egypt,Africa,Hailstorm,3,0.04,21,1,Rest of World
+2020,Egypt,Africa,Hurricane,5,0.17,26,1,Rest of World
+2020,Egypt,Africa,Tsunami,2,0.02,26,3,Rest of World
+2020,Finland,Europe,Drought,3,1.95,30,2,Rest of World
+2020,Finland,Europe,Earthquake,3,0.03,34,2,Rest of World
+2020,Finland,Europe,Hailstorm,5,0.01,28,1,Rest of World
+2020,Finland,Europe,Heatwave,1,0.02,7,1,Rest of World
+2020,Finland,Europe,Landslide,5,0.1,176,2,Rest of World
+2020,Finland,Europe,Tornado,6,0.03,30,1,Rest of World
+2020,Finland,Europe,Volcanic Eruption,1,0,3,1,Rest of World
+2020,France,Europe,Cold Wave,3,0.13,17,1,Rest of World
+2020,France,Europe,Drought,4,15.78,21,1,Rest of World
+2020,France,Europe,Earthquake,2.5,0.21,29,2,Rest of World
+2020,France,Europe,Flood,4.5,5.5200000000000005,55,2,Rest of World
+2020,France,Europe,Heatwave,4,3.28,21,1,Rest of World
+2020,France,Europe,Hurricane,3,0.38,14,1,Rest of World
+2020,France,Europe,Landslide,7.5,3.86,638,2,Rest of World
+2020,France,Europe,Tsunami,8,0.07,285,1,Rest of World
+2020,Germany,Europe,Drought,3,6.2,15,1,Rest of World
+2020,Germany,Europe,Earthquake,1,0.46,15,2,Rest of World
+2020,Germany,Europe,Heatwave,2,0.19,13,1,Rest of World
+2020,Germany,Europe,Landslide,6,4.23,351,2,Rest of World
+2020,Germany,Europe,Tornado,5,24.7,354,4,Rest of World
+2020,Germany,Europe,Tsunami,3,2.38,30,2,Rest of World
+2020,Germany,Europe,Wildfire,7,0.48,125,1,Rest of World
+2020,Greece,Europe,Earthquake,3,0.01,16,1,Rest of World
+2020,Greece,Europe,Hurricane,2,0.01,13,1,Rest of World
+2020,Greece,Europe,Landslide,3,0.05,18,1,Rest of World
+2020,Greece,Europe,Volcanic Eruption,1,0,4,1,Rest of World
+2020,Hungary,Europe,Cold Wave,2,0.01,14,1,Rest of World
+2020,Hungary,Europe,Earthquake,1.5,0,16,2,Rest of World
+2020,Hungary,Europe,Heatwave,3,0.29000000000000004,37,2,Rest of World
+2020,Hungary,Europe,Landslide,4.5,0.05,53,2,Rest of World
+2020,Hungary,Europe,Tornado,6,0.04,31,1,Rest of World
+2020,Hungary,Europe,Volcanic Eruption,2,0,15,1,Rest of World
+2020,India,Asia,Earthquake,3.25,1.07,75,4,Rest of World
+2020,India,Asia,Hurricane,2,0.55,22,2,Rest of World
+2020,India,Asia,Tornado,2,0.16,5,1,Rest of World
+2020,India,Asia,Tsunami,6,1.38,34,1,Rest of World
+2020,India,Asia,Wildfire,7,0.93,254,1,Rest of World
+2020,Indonesia,Asia,Cold Wave,5,4.18,33,1,Rest of World
+2020,Indonesia,Asia,Drought,3,2.95,28,2,Rest of World
+2020,Indonesia,Asia,Flood,7,1.06,179,1,Rest of World
+2020,Indonesia,Asia,Hailstorm,2,0.03,10,1,Rest of World
+2020,Indonesia,Asia,Tornado,7,1.07,173,1,Rest of World
+2020,Indonesia,Asia,Wildfire,4,1.28,24,1,Rest of World
+2020,Iraq,Asia,Cold Wave,4.5,4.57,56,2,Rest of World
+2020,Iraq,Asia,Drought,4.333333333333333,0.43000000000000005,72,3,Rest of World
+2020,Iraq,Asia,Hailstorm,5,0.05,29,1,Rest of World
+2020,Iraq,Asia,Hurricane,5,0.04,25,1,Rest of World
+2020,Iraq,Asia,Landslide,6,0.29,39,1,Rest of World
+2020,Iraq,Asia,Tornado,6.5,0.02,554,2,Rest of World
+2020,Iraq,Asia,Tsunami,5,0.09,31,1,Rest of World
+2020,Iraq,Asia,Volcanic Eruption,1.6666666666666667,0.02,29,3,Rest of World
+2020,Ireland,Europe,Cold Wave,3.5,0.44,38,2,Rest of World
+2020,Ireland,Europe,Heatwave,8,1.26,394,1,Rest of World
+2020,Ireland,Europe,Landslide,2.3333333333333335,0.1,36,3,Rest of World
+2020,Ireland,Europe,Wildfire,4,0.97,41,2,Rest of World
+2020,Israel,Asia,Cold Wave,4,2.29,46,2,Rest of World
+2020,Israel,Asia,Flood,2,0.5,26,2,Rest of World
+2020,Israel,Asia,Heatwave,4,1.53,21,1,Rest of World
+2020,Israel,Asia,Hurricane,2,0,9,1,Rest of World
+2020,Israel,Asia,Tornado,4,0.01,21,1,Rest of World
+2020,Italy,Europe,Cold Wave,4.5,17.25,45,2,Rest of World
+2020,Italy,Europe,Flood,2,0.88,5,1,Rest of World
+2020,Italy,Europe,Hurricane,5,0.28,32,1,Rest of World
+2020,Italy,Europe,Tsunami,5,0.05,27,1,Rest of World
+2020,Italy,Europe,Volcanic Eruption,3.5,0.47,63,4,Rest of World
+2020,Italy,Europe,Wildfire,3,0.9,44,2,Rest of World
+2020,Japan,Asia,Earthquake,1,0.09,8,1,Rest of World
+2020,Japan,Asia,Flood,7,6.1899999999999995,523,2,Rest of World
+2020,Japan,Asia,Hailstorm,3,0.23,20,1,Rest of World
+2020,Japan,Asia,Heatwave,7,42.59,315,1,Rest of World
+2020,Japan,Asia,Hurricane,1.5,0.05,14,2,Rest of World
+2020,Japan,Asia,Landslide,3,0.11,19,1,Rest of World
+2020,Japan,Asia,Tornado,3.5,1.52,66,4,Rest of World
+2020,Japan,Asia,Tsunami,1,0.01,2,1,Rest of World
+2020,Japan,Asia,Volcanic Eruption,1.5,0.1,12,2,Rest of World
+2020,Kazakhstan,Asia,Drought,2,0.03,7,1,Rest of World
+2020,Kazakhstan,Asia,Earthquake,2.75,0.09,64,4,Rest of World
+2020,Kazakhstan,Asia,Heatwave,5.5,9.61,141,2,Rest of World
+2020,Kazakhstan,Asia,Hurricane,3,0.05,12,1,Rest of World
+2020,Kazakhstan,Asia,Landslide,5,0.04,30,1,Rest of World
+2020,Kazakhstan,Asia,Volcanic Eruption,1.5,0,19,2,Rest of World
+2020,Malaysia,Asia,Drought,5,1.32,21,1,Rest of World
+2020,Malaysia,Asia,Earthquake,1,0.04,7,1,Rest of World
+2020,Malaysia,Asia,Hailstorm,8,0.18,502,1,Rest of World
+2020,Malaysia,Asia,Hurricane,1,0.08,7,1,Rest of World
+2020,Malaysia,Asia,Landslide,1,0,4,1,Rest of World
+2020,Malaysia,Asia,Tornado,8,0.16,117,1,Rest of World
+2020,Malaysia,Asia,Wildfire,5,0.19,28,1,Rest of World
+2020,Mexico,Americas,Cold Wave,6,0.72,25,1,Rest of World
+2020,Mexico,Americas,Hailstorm,4,0.23,33,1,Rest of World
+2020,Mexico,Americas,Heatwave,5,3.58,164,2,Rest of World
+2020,Mexico,Americas,Hurricane,3.5,0.09,40,2,Rest of World
+2020,Mexico,Americas,Tsunami,1.3333333333333333,0.060000000000000005,19,3,Rest of World
+2020,Netherlands,Europe,Drought,3,1.94,12,1,Rest of World
+2020,Netherlands,Europe,Earthquake,4.5,0.13,257,2,Rest of World
+2020,Netherlands,Europe,Flood,5,1.77,65,2,Rest of World
+2020,Netherlands,Europe,Hailstorm,3,0.08,8,1,Rest of World
+2020,Netherlands,Europe,Heatwave,6,27.27,30,1,Rest of World
+2020,Netherlands,Europe,Landslide,2,0.06,31,2,Rest of World
+2020,Netherlands,Europe,Tornado,4,0.16,56,2,Rest of World
+2020,Netherlands,Europe,Tsunami,2,0.07,18,2,Rest of World
+2020,Netherlands,Europe,Volcanic Eruption,3.25,0.62,69,4,Rest of World
+2020,Netherlands,Europe,Wildfire,5,0.14,19,1,Rest of World
+2020,New Zealand,Oceania,Drought,4,0.2,50,2,Rest of World
+2020,New Zealand,Oceania,Earthquake,1,0,7,1,Rest of World
+2020,New Zealand,Oceania,Flood,3,0,15,1,Rest of World
+2020,New Zealand,Oceania,Heatwave,6,1.66,30,1,Rest of World
+2020,New Zealand,Oceania,Hurricane,4,0.05,25,1,Rest of World
+2020,New Zealand,Oceania,Landslide,7,0.03,280,1,Rest of World
+2020,New Zealand,Oceania,Tsunami,2.5,0.02,32,2,Rest of World
+2020,New Zealand,Oceania,Volcanic Eruption,1,0,4,1,Rest of World
+2020,Nigeria,Africa,Drought,5.5,19.08,746,4,Rest of World
+2020,Nigeria,Africa,Hailstorm,1,0.05,6,1,Rest of World
+2020,Nigeria,Africa,Heatwave,5,1.37,45,2,Rest of World
+2020,Nigeria,Africa,Tsunami,2,0.01,17,2,Rest of World
+2020,Pakistan,Asia,Cold Wave,2,0.29,11,1,Rest of World
+2020,Pakistan,Asia,Drought,7,4.97,93,1,Rest of World
+2020,Pakistan,Asia,Hurricane,4,0.06,41,2,Rest of World
+2020,Pakistan,Asia,Landslide,5.333333333333333,0.23,498,3,Rest of World
+2020,Pakistan,Asia,Tornado,5,0,28,1,Rest of World
+2020,Pakistan,Asia,Tsunami,2.5,0,27,2,Rest of World
+2020,Pakistan,Asia,Volcanic Eruption,3,0.01,15,1,Rest of World
+2020,Peru,Americas,Cold Wave,5,1.89,21,1,Rest of World
+2020,Peru,Americas,Drought,8,0.4,64,1,Rest of World
+2020,Peru,Americas,Earthquake,3,0.01,15,1,Rest of World
+2020,Peru,Americas,Hailstorm,6,0.21,32,1,Rest of World
+2020,Peru,Americas,Heatwave,3,0.1,11,1,Rest of World
+2020,Peru,Americas,Hurricane,3,0.11,17,1,Rest of World
+2020,Peru,Americas,Landslide,3.3333333333333335,0.26,53,3,Rest of World
+2020,Peru,Americas,Volcanic Eruption,2,0.02,17,2,Rest of World
+2020,Peru,Americas,Wildfire,4,0.22,21,1,Rest of World
+2020,Philippines,Asia,Cold Wave,7,1.13,124,1,Rest of World
+2020,Philippines,Asia,Drought,7,1.4,190,1,Rest of World
+2020,Philippines,Asia,Earthquake,3,0.03,81,5,Rest of World
+2020,Philippines,Asia,Heatwave,5,1.39,30,1,Rest of World
+2020,Philippines,Asia,Hurricane,4,0.04,27,1,Rest of World
+2020,Philippines,Asia,Tornado,4,0.16,32,1,Rest of World
+2020,Philippines,Asia,Volcanic Eruption,2.3333333333333335,0.04,41,3,Rest of World
+2020,Philippines,Asia,Wildfire,5,0.02,28,1,Rest of World
+2020,Poland,Europe,Cold Wave,4,0.99,25,1,Rest of World
+2020,Poland,Europe,Drought,4,11.37,42,2,Rest of World
+2020,Poland,Europe,Earthquake,1,0,5,1,Rest of World
+2020,Poland,Europe,Hailstorm,4.666666666666667,0.35,70,3,Rest of World
+2020,Poland,Europe,Heatwave,7.5,2.44,184,2,Rest of World
+2020,Poland,Europe,Landslide,5,0.13,24,1,Rest of World
+2020,Poland,Europe,Tornado,1,0,13,2,Rest of World
+2020,Poland,Europe,Tsunami,2,0.01,15,1,Rest of World
+2020,Poland,Europe,Volcanic Eruption,5,0.16,22,1,Rest of World
+2020,Poland,Europe,Wildfire,3,0.02,17,1,Rest of World
+2020,Portugal,Europe,Drought,6,0.06,26,1,Rest of World
+2020,Portugal,Europe,Earthquake,4.5,0.08,46,2,Rest of World
+2020,Portugal,Europe,Flood,3,0.07,15,1,Rest of World
+2020,Portugal,Europe,Heatwave,3.5,3.02,39,2,Rest of World
+2020,Portugal,Europe,Hurricane,4,0.11,24,1,Rest of World
+2020,Portugal,Europe,Tsunami,1,0,6,1,Rest of World
+2020,Portugal,Europe,Volcanic Eruption,1.5,0,20,2,Rest of World
+2020,Portugal,Europe,Wildfire,3.5,0.22,31,2,Rest of World
+2020,Qatar,Asia,Drought,4,0.3,31,1,Rest of World
+2020,Qatar,Asia,Earthquake,2,0.01,24,2,Rest of World
+2020,Qatar,Asia,Flood,4.333333333333333,1.51,70,3,Rest of World
+2020,Qatar,Asia,Hailstorm,3,0,18,1,Rest of World
+2020,Qatar,Asia,Hurricane,1,0,11,1,Rest of World
+2020,Qatar,Asia,Landslide,5,0.13,23,1,Rest of World
+2020,Qatar,Asia,Tsunami,2.5,0,24,2,Rest of World
+2020,Qatar,Asia,Volcanic Eruption,3,0.01,14,1,Rest of World
+2020,Qatar,Asia,Wildfire,4,0.06,11,1,Rest of World
+2020,Romania,Europe,Cold Wave,5,0.2,175,2,Rest of World
+2020,Russia,Europe,Earthquake,1,0.02,8,1,Rest of World
+2020,Russia,Europe,Hailstorm,4.5,0.38,44,2,Rest of World
+2020,Russia,Europe,Heatwave,6,15.27,174,2,Rest of World
+2020,Russia,Europe,Tornado,6,0.77,26,1,Rest of World
+2020,Russia,Europe,Tsunami,3,0.04,17,1,Rest of World
+2020,Russia,Europe,Volcanic Eruption,3,0.33,16,1,Rest of World
+2020,Russia,Europe,Wildfire,8,0.63,200,1,Rest of World
+2020,Saudi Arabia,Asia,Drought,7,0.54,125,1,Rest of World
+2020,Saudi Arabia,Asia,Earthquake,2,0.05,7,1,Rest of World
+2020,Saudi Arabia,Asia,Hailstorm,5,0.51,27,1,Rest of World
+2020,Saudi Arabia,Asia,Heatwave,9,22.52,432,1,Rest of World
+2020,Saudi Arabia,Asia,Hurricane,3.3333333333333335,0.12,58,3,Rest of World
+2020,Saudi Arabia,Asia,Landslide,3.5,0.14,39,2,Rest of World
+2020,Saudi Arabia,Asia,Tornado,6,0.11,32,1,Rest of World
+2020,Saudi Arabia,Asia,Volcanic Eruption,1,0.01,8,1,Rest of World
+2020,Saudi Arabia,Asia,Wildfire,5,0.88,32,1,Rest of World
+2020,Singapore,Asia,Cold Wave,3.5,4,41,2,Rest of World
+2020,Singapore,Asia,Drought,5,8.42,110,4,Rest of World
+2020,Singapore,Asia,Earthquake,3,0,11,1,Rest of World
+2020,Singapore,Asia,Hailstorm,3,0.02,13,1,Rest of World
+2020,Singapore,Asia,Heatwave,3,0.17,15,1,Rest of World
+2020,Singapore,Asia,Hurricane,4.5,0.12,50,2,Rest of World
+2020,Singapore,Asia,Landslide,2.5,0.04,27,2,Rest of World
+2020,Singapore,Asia,Tsunami,1.6666666666666667,0.060000000000000005,26,3,Rest of World
+2020,Singapore,Asia,Volcanic Eruption,3,0.26,13,1,Rest of World
+2020,Singapore,Asia,Wildfire,2,0.03,15,1,Rest of World
+2020,South Africa,Africa,Cold Wave,1,0.01,7,1,Rest of World
+2020,South Africa,Africa,Drought,7,0.2,319,1,Rest of World
+2020,South Africa,Africa,Flood,6.666666666666667,1.06,511,3,Rest of World
+2020,South Africa,Africa,Hailstorm,5,0.02,24,1,Rest of World
+2020,South Africa,Africa,Heatwave,3.5,0.5599999999999999,34,2,Rest of World
+2020,South Africa,Africa,Hurricane,2,0.1,10,1,Rest of World
+2020,South Africa,Africa,Landslide,5,0.09,31,1,Rest of World
+2020,South Africa,Africa,Tsunami,4,0.11,26,1,Rest of World
+2020,South Africa,Africa,Volcanic Eruption,2.5,0.02,22,2,Rest of World
+2020,South Africa,Africa,Wildfire,4,0.67,47,2,Rest of World
+2020,South Korea,Asia,Cold Wave,3,0.42,16,1,Rest of World
+2020,South Korea,Asia,Drought,6.5,10.15,141,2,Rest of World
+2020,South Korea,Asia,Earthquake,3,0.35,14,1,Rest of World
+2020,South Korea,Asia,Hailstorm,5,0.28,32,1,Rest of World
+2020,South Korea,Asia,Hurricane,5,0.15,30,1,Rest of World
+2020,South Korea,Asia,Landslide,3,0.1,20,1,Rest of World
+2020,South Korea,Asia,Tornado,4.5,1.35,49,2,Rest of World
+2020,South Korea,Asia,Tsunami,3,0.14,16,1,Rest of World
+2020,South Korea,Asia,Wildfire,3.25,2.9400000000000004,94,4,Rest of World
+2020,Sweden,Europe,Heatwave,4,4.18,46,2,Rest of World
+2020,Sweden,Europe,Landslide,8,0.12,154,1,Rest of World
+2020,Sweden,Europe,Volcanic Eruption,3,0.02,16,1,Rest of World
+2020,Switzerland,Europe,Earthquake,1,0.01,12,2,Rest of World
+2020,Switzerland,Europe,Hailstorm,4.5,1.56,274,4,Rest of World
+2020,Switzerland,Europe,Heatwave,7,11.8,428,1,Rest of World
+2020,Switzerland,Europe,Tornado,4.333333333333333,0.15000000000000002,315,3,Rest of World
+2020,Switzerland,Europe,Tsunami,3.5,0.09,53,2,Rest of World
+2020,Switzerland,Europe,Wildfire,4.5,2.9899999999999998,46,2,Rest of World
+2020,Thailand,Asia,Hurricane,1,0,7,1,Rest of World
+2020,Thailand,Asia,Wildfire,5,1.37,54,2,Rest of World
+2020,Turkey,Asia,Earthquake,3,0.02,25,1,Rest of World
+2020,Turkey,Asia,Flood,5,0.12,38,1,Rest of World
+2020,Turkey,Asia,Hailstorm,4,0,14,1,Rest of World
+2020,Turkey,Asia,Hurricane,2,0.16,36,3,Rest of World
+2020,Turkey,Asia,Tornado,3,0.02,18,1,Rest of World
+2020,UAE,Asia,Earthquake,2,0,5,1,Rest of World
+2020,UAE,Asia,Flood,2,0.02,6,1,Rest of World
+2020,UAE,Asia,Landslide,3,0.06,15,1,Rest of World
+2020,UAE,Asia,Tornado,4,0,20,1,Rest of World
+2020,UAE,Asia,Volcanic Eruption,2,0,9,1,Rest of World
+2020,UAE,Asia,Wildfire,4,2.01,29,1,Rest of World
+2020,United Kingdom,Europe,Earthquake,2,0,8,1,Rest of World
+2020,United Kingdom,Europe,Hurricane,1,0.30000000000000004,15,2,Rest of World
+2020,United Kingdom,Europe,Volcanic Eruption,5,0.87,331,2,Rest of World
+2020,United States,Americas,Earthquake,1,1.04,12,2,Rest of World
+2020,United States,Americas,Hailstorm,5,7.32,60,2,Rest of World
+2020,United States,Americas,Hurricane,4,8.08,21,1,Rest of World
+2020,United States,Americas,Landslide,4.5,6.28,49,2,Rest of World
+2020,United States,Americas,Tornado,5,4.72,23,1,Rest of World
+2020,United States,Americas,Volcanic Eruption,1,0.48,7,1,Rest of World
+2020,United States,Americas,Wildfire,3,1.28,17,1,Rest of World
+2020,Vietnam,Asia,Cold Wave,4,0.11,27,1,Rest of World
+2020,Vietnam,Asia,Drought,6,0.41,183,2,Rest of World
+2020,Vietnam,Asia,Hailstorm,5,0.01,14,1,Rest of World
+2020,Vietnam,Asia,Heatwave,3,0.37,9,1,Rest of World
+2020,Vietnam,Asia,Hurricane,3,0.01,20,1,Rest of World
+2020,Vietnam,Asia,Landslide,7,0.12,151,1,Rest of World
+2020,Vietnam,Asia,Tornado,6,0.35,47,2,Rest of World
+2020,Vietnam,Asia,Tsunami,2,0.01,9,1,Rest of World
+2020,Vietnam,Asia,Volcanic Eruption,3,0.01,12,1,Rest of World
+2020,Vietnam,Asia,Wildfire,6,0.1,518,2,Rest of World
+2021,Argentina,Americas,Cold Wave,1,0.12,4,1,Rest of World
+2021,Argentina,Americas,Drought,3,1.55,28,2,Rest of World
+2021,Argentina,Americas,Earthquake,4,0.07,19,1,Rest of World
+2021,Argentina,Americas,Heatwave,1.6666666666666667,0.24000000000000002,26,3,Rest of World
+2021,Argentina,Americas,Landslide,1,0.01,8,1,Rest of World
+2021,Argentina,Americas,Tornado,4,0.11,29,1,Rest of World
+2021,Argentina,Americas,Tsunami,5,0.05,27,1,Rest of World
+2021,Australia,Oceania,Cold Wave,3,4.94,13,1,Australia
+2021,Australia,Oceania,Flood,5,0.12,35,1,Australia
+2021,Australia,Oceania,Hurricane,2,0.33,16,2,Australia
+2021,Australia,Oceania,Wildfire,6,0.64,36,1,Australia
+2021,Austria,Europe,Earthquake,2.5,0.02,27,2,Rest of World
+2021,Austria,Europe,Flood,4.333333333333333,0.58,61,3,Rest of World
+2021,Austria,Europe,Hailstorm,6,0.01,23,1,Rest of World
+2021,Austria,Europe,Heatwave,3,2.5,10,1,Rest of World
+2021,Austria,Europe,Hurricane,1,0.03,5,1,Rest of World
+2021,Austria,Europe,Landslide,5.5,0.23,130,2,Rest of World
+2021,Austria,Europe,Tsunami,1,0,3,1,Rest of World
+2021,Austria,Europe,Volcanic Eruption,1,0,5,1,Rest of World
+2021,Austria,Europe,Wildfire,6,0.5,447,2,Rest of World
+2021,Bangladesh,Asia,Drought,2.5,2.1,15,2,Rest of World
+2021,Bangladesh,Asia,Earthquake,3,0.06,39,2,Rest of World
+2021,Bangladesh,Asia,Flood,4,0.05,9,1,Rest of World
+2021,Bangladesh,Asia,Hailstorm,1,0,5,1,Rest of World
+2021,Bangladesh,Asia,Landslide,4,0.25,28,1,Rest of World
+2021,Bangladesh,Asia,Tornado,3,0,19,1,Rest of World
+2021,Bangladesh,Asia,Tsunami,3.6666666666666665,0.16999999999999998,66,3,Rest of World
+2021,Bangladesh,Asia,Volcanic Eruption,2,0.01,21,2,Rest of World
+2021,Bangladesh,Asia,Wildfire,5,2.07,66,2,Rest of World
+2021,Belgium,Europe,Cold Wave,4,0.35,17,1,Rest of World
+2021,Belgium,Europe,Drought,4,0.76,27,1,Rest of World
+2021,Belgium,Europe,Flood,2,0.01,12,1,Rest of World
+2021,Belgium,Europe,Hailstorm,6,0.2,36,1,Rest of World
+2021,Belgium,Europe,Heatwave,7,2.52,453,1,Rest of World
+2021,Belgium,Europe,Hurricane,2,0.06,9,1,Rest of World
+2021,Belgium,Europe,Landslide,5,0.22,26,1,Rest of World
+2021,Belgium,Europe,Wildfire,3.5,0.21,35,2,Rest of World
+2021,Brazil,Americas,Earthquake,3.6666666666666665,1.99,67,3,Rest of World
+2021,Brazil,Americas,Heatwave,7,6.02,335,2,Rest of World
+2021,Brazil,Americas,Landslide,5,0.97,93,3,Rest of World
+2021,Brazil,Americas,Tornado,2.3333333333333335,0.41000000000000003,39,3,Rest of World
+2021,Brazil,Americas,Tsunami,6,0.42,27,1,Rest of World
+2021,Brazil,Americas,Wildfire,2.6666666666666665,1.8499999999999999,34,3,Rest of World
+2021,Canada,Americas,Cold Wave,4.5,9.6,53,2,Rest of World
+2021,Canada,Americas,Earthquake,2,0.06,42,3,Rest of World
+2021,Canada,Americas,Heatwave,6,0.03,35,1,Rest of World
+2021,Canada,Americas,Hurricane,2.6666666666666665,1.92,40,3,Rest of World
+2021,Canada,Americas,Landslide,5,2.28,25,1,Rest of World
+2021,Canada,Americas,Volcanic Eruption,3.5,0.2,33,2,Rest of World
+2021,Canada,Americas,Wildfire,6,11.02,220,3,Rest of World
+2021,Chile,Americas,Cold Wave,5,0.48,30,1,Rest of World
+2021,Chile,Americas,Drought,4,0.76,28,1,Rest of World
+2021,Chile,Americas,Earthquake,3,0.02,10,1,Rest of World
+2021,Chile,Americas,Hailstorm,7,0.05,269,1,Rest of World
+2021,Chile,Americas,Heatwave,8,1.05,79,1,Rest of World
+2021,Chile,Americas,Tornado,3,0.02,9,1,Rest of World
+2021,Chile,Americas,Tsunami,2,0.18,24,2,Rest of World
+2021,China,Asia,Flood,5,0.91,19,1,Rest of World
+2021,China,Asia,Hailstorm,2.5,1,20,2,Rest of World
+2021,China,Asia,Hurricane,1,1.86,7,1,Rest of World
+2021,China,Asia,Tornado,4,1.05,26,1,Rest of World
+2021,China,Asia,Volcanic Eruption,3,0.41,15,1,Rest of World
+2021,Colombia,Americas,Drought,3,0.16,16,1,Rest of World
+2021,Colombia,Americas,Earthquake,2.5,0.02,24,2,Rest of World
+2021,Colombia,Americas,Flood,8,0.38,218,1,Rest of World
+2021,Colombia,Americas,Heatwave,4,1.17,20,1,Rest of World
+2021,Colombia,Americas,Hurricane,3,0.09,32,2,Rest of World
+2021,Colombia,Americas,Landslide,4,0.03,23,1,Rest of World
+2021,Colombia,Americas,Tornado,5,0.01,23,1,Rest of World
+2021,Colombia,Americas,Tsunami,3,0.2,30,2,Rest of World
+2021,Czech Republic,Europe,Drought,4,0.56,27,1,Rest of World
+2021,Czech Republic,Europe,Earthquake,2,0.08,12,1,Rest of World
+2021,Czech Republic,Europe,Flood,7,3.8,450,1,Rest of World
+2021,Czech Republic,Europe,Hailstorm,6,0.01,35,1,Rest of World
+2021,Czech Republic,Europe,Landslide,4,0.44,103,2,Rest of World
+2021,Czech Republic,Europe,Tornado,7,0.33,165,1,Rest of World
+2021,Czech Republic,Europe,Volcanic Eruption,2,0,7,1,Rest of World
+2021,Czech Republic,Europe,Wildfire,2,0.01,9,1,Rest of World
+2021,Denmark,Europe,Cold Wave,7,0.85,260,1,Rest of World
+2021,Denmark,Europe,Drought,6,0.03,22,1,Rest of World
+2021,Denmark,Europe,Earthquake,3,0.43,31,2,Rest of World
+2021,Denmark,Europe,Hailstorm,5,0.09,33,1,Rest of World
+2021,Denmark,Europe,Volcanic Eruption,2,0.03,14,1,Rest of World
+2021,Egypt,Africa,Cold Wave,6,8.72,35,1,Rest of World
+2021,Egypt,Africa,Drought,6.5,1.53,259,2,Rest of World
+2021,Egypt,Africa,Hailstorm,3.3333333333333335,0.18,59,3,Rest of World
+2021,Egypt,Africa,Heatwave,4.5,0.35000000000000003,714,2,Rest of World
+2021,Egypt,Africa,Hurricane,3.3333333333333335,0.42000000000000004,55,3,Rest of World
+2021,Egypt,Africa,Landslide,5,0.06,81,3,Rest of World
+2021,Egypt,Africa,Tornado,6,0.13,34,1,Rest of World
+2021,Egypt,Africa,Tsunami,1,0,6,1,Rest of World
+2021,Egypt,Africa,Volcanic Eruption,2,0.05,27,3,Rest of World
+2021,Egypt,Africa,Wildfire,5,0.93,39,1,Rest of World
+2021,Finland,Europe,Drought,2.5,0.09000000000000001,31,2,Rest of World
+2021,Finland,Europe,Earthquake,3,0.03,16,1,Rest of World
+2021,Finland,Europe,Hailstorm,5,0.03,27,1,Rest of World
+2021,Finland,Europe,Volcanic Eruption,2,0.01,12,1,Rest of World
+2021,France,Europe,Cold Wave,6,3.91,30,1,Rest of World
+2021,France,Europe,Earthquake,2.5,0.01,26,2,Rest of World
+2021,France,Europe,Flood,4.5,2.29,244,2,Rest of World
+2021,France,Europe,Hailstorm,5,0.44,37,1,Rest of World
+2021,France,Europe,Heatwave,5,1.91,37,1,Rest of World
+2021,France,Europe,Hurricane,1,0.07,6,1,Rest of World
+2021,France,Europe,Tornado,4.5,0.75,41,2,Rest of World
+2021,France,Europe,Volcanic Eruption,1,0.04,9,1,Rest of World
+2021,France,Europe,Wildfire,5,0,19,1,Rest of World
+2021,Germany,Europe,Cold Wave,4,14.79,22,1,Rest of World
+2021,Germany,Europe,Earthquake,1,0.45,6,1,Rest of World
+2021,Germany,Europe,Flood,3,6.73,35,2,Rest of World
+2021,Germany,Europe,Hurricane,3,2.61,24,1,Rest of World
+2021,Germany,Europe,Tsunami,2,0.04,12,1,Rest of World
+2021,Germany,Europe,Volcanic Eruption,2,0.1,11,1,Rest of World
+2021,Germany,Europe,Wildfire,3.5,2.09,45,2,Rest of World
+2021,Greece,Europe,Drought,3.5,0.8200000000000001,33,2,Rest of World
+2021,Greece,Europe,Earthquake,1,0,5,1,Rest of World
+2021,Greece,Europe,Landslide,6.666666666666667,0.08,286,3,Rest of World
+2021,Greece,Europe,Tornado,2.5,0.01,28,2,Rest of World
+2021,Greece,Europe,Tsunami,1,0,4,1,Rest of World
+2021,Greece,Europe,Volcanic Eruption,2,0.02,35,3,Rest of World
+2021,Greece,Europe,Wildfire,5,0.34,21,1,Rest of World
+2021,Hungary,Europe,Cold Wave,3,0.05,17,1,Rest of World
+2021,Hungary,Europe,Drought,3,0.08,20,1,Rest of World
+2021,Hungary,Europe,Earthquake,2.5,0.03,36,2,Rest of World
+2021,Hungary,Europe,Flood,6,0.29,38,1,Rest of World
+2021,Hungary,Europe,Heatwave,3.8,2.61,98,5,Rest of World
+2021,Hungary,Europe,Hurricane,2,0.01,6,1,Rest of World
+2021,Hungary,Europe,Tornado,5,0.02,23,1,Rest of World
+2021,Hungary,Europe,Tsunami,2,0,10,1,Rest of World
+2021,Hungary,Europe,Volcanic Eruption,5,0.06,37,1,Rest of World
+2021,Hungary,Europe,Wildfire,3,0,20,1,Rest of World
+2021,India,Asia,Cold Wave,2,0.26,11,1,Rest of World
+2021,India,Asia,Heatwave,7,32.51,149,1,Rest of World
+2021,India,Asia,Landslide,3,0.62,25,1,Rest of World
+2021,India,Asia,Tornado,7,1.77,430,1,Rest of World
+2021,India,Asia,Tsunami,3,0.17,30,1,Rest of World
+2021,India,Asia,Volcanic Eruption,3,0.9,14,1,Rest of World
+2021,India,Asia,Wildfire,2,0.77,15,1,Rest of World
+2021,Indonesia,Asia,Hailstorm,4,0.03,24,1,Rest of World
+2021,Indonesia,Asia,Hurricane,1.5,0.24,19,2,Rest of World
+2021,Indonesia,Asia,Volcanic Eruption,1,0,6,1,Rest of World
+2021,Iraq,Asia,Flood,4.333333333333333,0.63,63,3,Rest of World
+2021,Iraq,Asia,Hailstorm,3.3333333333333335,0.060000000000000005,40,3,Rest of World
+2021,Iraq,Asia,Hurricane,3.3333333333333335,0.22,52,3,Rest of World
+2021,Iraq,Asia,Tornado,3,0,23,1,Rest of World
+2021,Iraq,Asia,Tsunami,2,0,11,1,Rest of World
+2021,Ireland,Europe,Cold Wave,4,4.57,47,2,Rest of World
+2021,Ireland,Europe,Drought,6,0.77,36,1,Rest of World
+2021,Ireland,Europe,Hurricane,5,0,17,1,Rest of World
+2021,Ireland,Europe,Landslide,5.5,0.17,69,2,Rest of World
+2021,Israel,Asia,Drought,6,0.01,26,1,Rest of World
+2021,Israel,Asia,Earthquake,1,0.01,7,1,Rest of World
+2021,Israel,Asia,Flood,3,0.01,11,1,Rest of World
+2021,Israel,Asia,Hailstorm,4.333333333333333,0.74,166,3,Rest of World
+2021,Israel,Asia,Tsunami,1,0,17,2,Rest of World
+2021,Israel,Asia,Volcanic Eruption,1,0,9,1,Rest of World
+2021,Italy,Europe,Drought,6.5,3.43,205,2,Rest of World
+2021,Italy,Europe,Earthquake,3,0.19,23,1,Rest of World
+2021,Italy,Europe,Tornado,5,0.09,31,1,Rest of World
+2021,Italy,Europe,Tsunami,2,0.13,7,1,Rest of World
+2021,Italy,Europe,Volcanic Eruption,1,0,10,1,Rest of World
+2021,Italy,Europe,Wildfire,1,0.45,3,1,Rest of World
+2021,Japan,Asia,Cold Wave,4.5,35.55,46,2,Rest of World
+2021,Japan,Asia,Drought,4,12.92,25,1,Rest of World
+2021,Japan,Asia,Earthquake,3.6666666666666665,0.76,59,3,Rest of World
+2021,Japan,Asia,Heatwave,4,25.39,30,1,Rest of World
+2021,Japan,Asia,Hurricane,2,0.92,17,1,Rest of World
+2021,Japan,Asia,Tornado,3,0.25,30,2,Rest of World
+2021,Japan,Asia,Volcanic Eruption,3.6666666666666665,1.66,50,3,Rest of World
+2021,Kazakhstan,Asia,Drought,4,0.8200000000000001,35,2,Rest of World
+2021,Kazakhstan,Asia,Earthquake,3,0.01,8,1,Rest of World
+2021,Kazakhstan,Asia,Flood,4,0,21,1,Rest of World
+2021,Kazakhstan,Asia,Hailstorm,7,0.29,269,1,Rest of World
+2021,Kazakhstan,Asia,Heatwave,1,0.03,2,1,Rest of World
+2021,Kazakhstan,Asia,Hurricane,5,0,25,1,Rest of World
+2021,Kazakhstan,Asia,Tornado,6,0.2,25,1,Rest of World
+2021,Kazakhstan,Asia,Tsunami,2,0.03,11,1,Rest of World
+2021,Kazakhstan,Asia,Volcanic Eruption,5,0.05,20,1,Rest of World
+2021,Malaysia,Asia,Cold Wave,4,1.17,23,1,Rest of World
+2021,Malaysia,Asia,Drought,8,4.5,329,2,Rest of World
+2021,Malaysia,Asia,Earthquake,4,0.25,19,1,Rest of World
+2021,Malaysia,Asia,Flood,2.5,0.19,26,2,Rest of World
+2021,Malaysia,Asia,Heatwave,6,1.15,39,1,Rest of World
+2021,Malaysia,Asia,Hurricane,6,0.28,29,1,Rest of World
+2021,Malaysia,Asia,Landslide,3,0.02,9,1,Rest of World
+2021,Malaysia,Asia,Tsunami,2,0.01,14,1,Rest of World
+2021,Malaysia,Asia,Volcanic Eruption,4,0.24000000000000002,50,2,Rest of World
+2021,Malaysia,Asia,Wildfire,5.5,0.72,314,2,Rest of World
+2021,Mexico,Americas,Cold Wave,5,10.89,27,1,Rest of World
+2021,Mexico,Americas,Earthquake,1,0,5,1,Rest of World
+2021,Mexico,Americas,Flood,7,0.24,357,1,Rest of World
+2021,Mexico,Americas,Hurricane,2,0.04,17,1,Rest of World
+2021,Mexico,Americas,Landslide,6.5,1.54,703,2,Rest of World
+2021,Mexico,Americas,Tsunami,1,0.03,13,2,Rest of World
+2021,Mexico,Americas,Volcanic Eruption,2,0.15,20,2,Rest of World
+2021,Netherlands,Europe,Drought,5.5,1.25,644,2,Rest of World
+2021,Netherlands,Europe,Earthquake,1,0.02,9,1,Rest of World
+2021,Netherlands,Europe,Hailstorm,4,0.5,16,1,Rest of World
+2021,Netherlands,Europe,Heatwave,1,0.02,8,1,Rest of World
+2021,Netherlands,Europe,Hurricane,3,0.68,39,2,Rest of World
+2021,Netherlands,Europe,Tornado,6,0.06,40,1,Rest of World
+2021,Netherlands,Europe,Tsunami,1,0,6,1,Rest of World
+2021,Netherlands,Europe,Volcanic Eruption,5,0.53,36,1,Rest of World
+2021,New Zealand,Oceania,Cold Wave,2,0.05,8,1,Rest of World
+2021,New Zealand,Oceania,Flood,6,0.08,39,1,Rest of World
+2021,New Zealand,Oceania,Hurricane,2,0.03,21,2,Rest of World
+2021,New Zealand,Oceania,Landslide,5,0.03,32,1,Rest of World
+2021,New Zealand,Oceania,Volcanic Eruption,4,0.01,17,1,Rest of World
+2021,New Zealand,Oceania,Wildfire,6,0.03,43,1,Rest of World
+2021,Nigeria,Africa,Cold Wave,4,3.63,306,2,Rest of World
+2021,Nigeria,Africa,Flood,3,0.09,13,1,Rest of World
+2021,Nigeria,Africa,Landslide,5,0.04,20,1,Rest of World
+2021,Nigeria,Africa,Tornado,5,0.07,24,1,Rest of World
+2021,Nigeria,Africa,Volcanic Eruption,1,0.01,14,1,Rest of World
+2021,Nigeria,Africa,Wildfire,5,0,40,1,Rest of World
+2021,Pakistan,Asia,Cold Wave,7,2,391,1,Rest of World
+2021,Pakistan,Asia,Earthquake,5,0.06,31,1,Rest of World
+2021,Pakistan,Asia,Hailstorm,3,0,11,1,Rest of World
+2021,Pakistan,Asia,Landslide,6,0.04,41,1,Rest of World
+2021,Pakistan,Asia,Tsunami,3.5,0.08,41,2,Rest of World
+2021,Pakistan,Asia,Volcanic Eruption,2,0.01,14,1,Rest of World
+2021,Peru,Americas,Drought,7,0.19,206,1,Rest of World
+2021,Peru,Americas,Hailstorm,1,0,3,1,Rest of World
+2021,Peru,Americas,Heatwave,6,0.82,36,1,Rest of World
+2021,Peru,Americas,Hurricane,2.5,0.02,19,2,Rest of World
+2021,Peru,Americas,Landslide,3.5,0.13,38,2,Rest of World
+2021,Peru,Americas,Tornado,5,0.04,34,1,Rest of World
+2021,Peru,Americas,Tsunami,2,0,11,1,Rest of World
+2021,Peru,Americas,Volcanic Eruption,3,0.06999999999999999,36,2,Rest of World
+2021,Peru,Americas,Wildfire,3.5,0.17,34,2,Rest of World
+2021,Philippines,Asia,Drought,8,8.01,485,1,Rest of World
+2021,Philippines,Asia,Earthquake,6,0,28,1,Rest of World
+2021,Philippines,Asia,Flood,4,0.09,11,1,Rest of World
+2021,Philippines,Asia,Hailstorm,7,0.02,156,1,Rest of World
+2021,Philippines,Asia,Landslide,2,0.02,17,1,Rest of World
+2021,Philippines,Asia,Tornado,5,0.45,36,1,Rest of World
+2021,Philippines,Asia,Tsunami,3,0.05,13,1,Rest of World
+2021,Poland,Europe,Cold Wave,6,0.17,38,1,Rest of World
+2021,Poland,Europe,Flood,6.5,0.85,181,2,Rest of World
+2021,Poland,Europe,Tornado,4,0.77,27,1,Rest of World
+2021,Portugal,Europe,Cold Wave,4.5,0.61,42,2,Rest of World
+2021,Portugal,Europe,Drought,9,3.06,242,1,Rest of World
+2021,Portugal,Europe,Flood,7,0.36,114,1,Rest of World
+2021,Portugal,Europe,Heatwave,6,2.18,26,1,Rest of World
+2021,Portugal,Europe,Hurricane,1.5,0.02,13,2,Rest of World
+2021,Portugal,Europe,Landslide,6,0.01,36,1,Rest of World
+2021,Portugal,Europe,Tornado,2,0,14,1,Rest of World
+2021,Portugal,Europe,Tsunami,2,0,23,2,Rest of World
+2021,Portugal,Europe,Volcanic Eruption,1,0,14,2,Rest of World
+2021,Qatar,Asia,Drought,3,0,18,1,Rest of World
+2021,Qatar,Asia,Hailstorm,6,0.03,29,1,Rest of World
+2021,Qatar,Asia,Heatwave,3,0.02,17,1,Rest of World
+2021,Qatar,Asia,Hurricane,2,0,10,1,Rest of World
+2021,Qatar,Asia,Landslide,4,0.03,18,1,Rest of World
+2021,Qatar,Asia,Tornado,4,0.02,19,1,Rest of World
+2021,Qatar,Asia,Tsunami,7,0.2,296,1,Rest of World
+2021,Qatar,Asia,Volcanic Eruption,4,0.01,49,2,Rest of World
+2021,Qatar,Asia,Wildfire,7,0.13,332,1,Rest of World
+2021,Romania,Europe,Cold Wave,5,0.16,39,1,Rest of World
+2021,Romania,Europe,Earthquake,3,0.07,34,2,Rest of World
+2021,Romania,Europe,Flood,6.5,3.7800000000000002,288,2,Rest of World
+2021,Romania,Europe,Heatwave,1,0,5,1,Rest of World
+2021,Romania,Europe,Landslide,6,0.01,41,1,Rest of World
+2021,Romania,Europe,Tornado,8,0.1,251,1,Rest of World
+2021,Romania,Europe,Tsunami,4,0.05,18,1,Rest of World
+2021,Russia,Europe,Cold Wave,6,2.6,25,1,Rest of World
+2021,Russia,Europe,Flood,6,0.95,41,1,Rest of World
+2021,Russia,Europe,Hailstorm,2,0.02,10,1,Rest of World
+2021,Russia,Europe,Heatwave,3,3.54,34,2,Rest of World
+2021,Russia,Europe,Hurricane,4,3.64,27,1,Rest of World
+2021,Russia,Europe,Landslide,4.5,1.69,317,4,Rest of World
+2021,Russia,Europe,Tornado,2,0.03,7,1,Rest of World
+2021,Russia,Europe,Volcanic Eruption,5,0.2,25,1,Rest of World
+2021,Saudi Arabia,Asia,Cold Wave,3,0.52,19,1,Rest of World
+2021,Saudi Arabia,Asia,Drought,1,0.14,8,1,Rest of World
+2021,Saudi Arabia,Asia,Earthquake,2,0.03,15,1,Rest of World
+2021,Saudi Arabia,Asia,Flood,1.5,0.14,9,2,Rest of World
+2021,Saudi Arabia,Asia,Hailstorm,6,0.42,30,1,Rest of World
+2021,Saudi Arabia,Asia,Heatwave,7,3.88,182,1,Rest of World
+2021,Saudi Arabia,Asia,Hurricane,4,0.84,26,1,Rest of World
+2021,Saudi Arabia,Asia,Volcanic Eruption,1,0.01,6,1,Rest of World
+2021,Saudi Arabia,Asia,Wildfire,3,1,33,2,Rest of World
+2021,Singapore,Asia,Cold Wave,4.5,1.15,49,2,Rest of World
+2021,Singapore,Asia,Drought,3,4.64,30,2,Rest of World
+2021,Singapore,Asia,Earthquake,3,0.12000000000000001,30,2,Rest of World
+2021,Singapore,Asia,Hailstorm,4,0.13,24,1,Rest of World
+2021,Singapore,Asia,Hurricane,1,0.01,11,2,Rest of World
+2021,Singapore,Asia,Landslide,5,0,26,1,Rest of World
+2021,Singapore,Asia,Tsunami,1,0,4,1,Rest of World
+2021,Singapore,Asia,Volcanic Eruption,3,0.01,15,1,Rest of World
+2021,South Africa,Africa,Cold Wave,5,0.34,33,1,Rest of World
+2021,South Africa,Africa,Drought,5,2.45,23,1,Rest of World
+2021,South Africa,Africa,Earthquake,1,0,8,1,Rest of World
+2021,South Africa,Africa,Flood,5,0.1,22,1,Rest of World
+2021,South Africa,Africa,Hailstorm,4,0.01,22,1,Rest of World
+2021,South Africa,Africa,Heatwave,3,2.34,12,1,Rest of World
+2021,South Africa,Africa,Hurricane,2.75,0.9500000000000001,69,4,Rest of World
+2021,South Africa,Africa,Landslide,4,0.01,24,1,Rest of World
+2021,South Africa,Africa,Tornado,6,0.24,32,1,Rest of World
+2021,South Korea,Asia,Cold Wave,3,4.9399999999999995,31,2,Rest of World
+2021,South Korea,Asia,Flood,3,0.11,31,2,Rest of World
+2021,South Korea,Asia,Hurricane,6,1.36,37,1,Rest of World
+2021,South Korea,Asia,Landslide,4,0.03,20,1,Rest of World
+2021,Sweden,Europe,Cold Wave,5,0.26,32,1,Rest of World
+2021,Sweden,Europe,Drought,6,4.92,37,1,Rest of World
+2021,Sweden,Europe,Earthquake,1.5,0,12,2,Rest of World
+2021,Sweden,Europe,Flood,5,1.93,52,2,Rest of World
+2021,Sweden,Europe,Hailstorm,5,0.1,31,1,Rest of World
+2021,Sweden,Europe,Hurricane,5,0.05,28,1,Rest of World
+2021,Sweden,Europe,Landslide,4,0.02,23,1,Rest of World
+2021,Sweden,Europe,Tornado,1,0,9,1,Rest of World
+2021,Sweden,Europe,Tsunami,6,0.11,43,1,Rest of World
+2021,Sweden,Europe,Volcanic Eruption,2.5,0.08,27,2,Rest of World
+2021,Sweden,Europe,Wildfire,3,0.05,47,2,Rest of World
+2021,Switzerland,Europe,Cold Wave,1,0.05,7,1,Rest of World
+2021,Switzerland,Europe,Drought,3,3.59,30,2,Rest of World
+2021,Switzerland,Europe,Earthquake,2,0.27,21,2,Rest of World
+2021,Switzerland,Europe,Flood,5,2.36,416,3,Rest of World
+2021,Switzerland,Europe,Hailstorm,6,0.06,35,1,Rest of World
+2021,Switzerland,Europe,Wildfire,7,0,738,1,Rest of World
+2021,Thailand,Asia,Cold Wave,4,1.93,24,1,Rest of World
+2021,Thailand,Asia,Flood,4,6.08,45,2,Rest of World
+2021,Thailand,Asia,Heatwave,7,2.94,316,1,Rest of World
+2021,Thailand,Asia,Landslide,6,0.01,27,1,Rest of World
+2021,Thailand,Asia,Tsunami,1,0.02,7,1,Rest of World
+2021,Thailand,Asia,Volcanic Eruption,4,0.06999999999999999,57,2,Rest of World
+2021,Turkey,Asia,Drought,5,10.26,184,3,Rest of World
+2021,Turkey,Asia,Flood,3,0.03,16,1,Rest of World
+2021,Turkey,Asia,Hailstorm,3,0.1,18,1,Rest of World
+2021,Turkey,Asia,Heatwave,6,10.12,45,1,Rest of World
+2021,Turkey,Asia,Hurricane,1,0.01,6,1,Rest of World
+2021,UAE,Asia,Drought,3.5,1.01,33,2,Rest of World
+2021,UAE,Asia,Earthquake,4,0.08,15,1,Rest of World
+2021,UAE,Asia,Heatwave,6,1.67,30,1,Rest of World
+2021,UAE,Asia,Hurricane,1.25,0.05,25,4,Rest of World
+2021,United Kingdom,Europe,Cold Wave,2,10.22,8,1,Rest of World
+2021,United Kingdom,Europe,Earthquake,1,0.03,12,2,Rest of World
+2021,United Kingdom,Europe,Flood,5.5,1.6500000000000001,143,2,Rest of World
+2021,United Kingdom,Europe,Hailstorm,1,0.04,4,1,Rest of World
+2021,United Kingdom,Europe,Heatwave,3.5,9.05,32,2,Rest of World
+2021,United Kingdom,Europe,Volcanic Eruption,1,0.01,8,1,Rest of World
+2021,United States,Americas,Drought,1,1.91,6,1,Rest of World
+2021,United States,Americas,Flood,6,0,29,1,Rest of World
+2021,United States,Americas,Hailstorm,4,4.83,18,1,Rest of World
+2021,United States,Americas,Tornado,2,1.59,15,2,Rest of World
+2021,United States,Americas,Tsunami,1,0.14,5,1,Rest of World
+2021,United States,Americas,Wildfire,5,0,23,1,Rest of World
+2021,Vietnam,Asia,Drought,6,2.76,39,1,Rest of World
+2021,Vietnam,Asia,Earthquake,1.5,0.03,16,2,Rest of World
+2021,Vietnam,Asia,Flood,2,0.02,9,1,Rest of World
+2021,Vietnam,Asia,Heatwave,4,0.75,24,1,Rest of World
+2021,Vietnam,Asia,Hurricane,2,0.03,10,1,Rest of World
+2021,Vietnam,Asia,Tornado,2,0,9,1,Rest of World
+2022,Argentina,Americas,Cold Wave,6,0.62,38,1,Rest of World
+2022,Argentina,Americas,Flood,7,0.36,67,1,Rest of World
+2022,Argentina,Americas,Heatwave,7.5,2.75,596,2,Rest of World
+2022,Argentina,Americas,Tornado,7,0.06,320,1,Rest of World
+2022,Argentina,Americas,Volcanic Eruption,3,0.01,16,1,Rest of World
+2022,Australia,Oceania,Drought,7,1.29,351,1,Australia
+2022,Australia,Oceania,Flood,6,0.82,43,1,Australia
+2022,Australia,Oceania,Heatwave,3,2.12,40,2,Australia
+2022,Australia,Oceania,Landslide,4,0.32,70,3,Australia
+2022,Australia,Oceania,Tsunami,1,0.01,9,1,Australia
+2022,Australia,Oceania,Volcanic Eruption,1,0.05,5,1,Australia
+2022,Australia,Oceania,Wildfire,4,0.95,61,3,Australia
+2022,Austria,Europe,Drought,5.5,3.8,63,2,Rest of World
+2022,Austria,Europe,Earthquake,3,0.01,16,1,Rest of World
+2022,Austria,Europe,Flood,3,0.2,36,2,Rest of World
+2022,Austria,Europe,Hailstorm,5,0.05,35,1,Rest of World
+2022,Austria,Europe,Landslide,3,0.21000000000000002,24,2,Rest of World
+2022,Austria,Europe,Tornado,3,0.04,16,1,Rest of World
+2022,Austria,Europe,Tsunami,1,0,14,2,Rest of World
+2022,Austria,Europe,Volcanic Eruption,4,0.05,27,1,Rest of World
+2022,Austria,Europe,Wildfire,4,0.04,15,1,Rest of World
+2022,Bangladesh,Asia,Earthquake,3,0.01,17,1,Rest of World
+2022,Bangladesh,Asia,Hailstorm,6,0.19,31,1,Rest of World
+2022,Bangladesh,Asia,Landslide,4.5,0.09,47,2,Rest of World
+2022,Bangladesh,Asia,Tsunami,3,0.15000000000000002,37,2,Rest of World
+2022,Belgium,Europe,Hailstorm,4,0.05,20,1,Rest of World
+2022,Belgium,Europe,Heatwave,6,8.37,31,1,Rest of World
+2022,Belgium,Europe,Hurricane,2,0.46,11,1,Rest of World
+2022,Belgium,Europe,Tsunami,2,0.01,14,1,Rest of World
+2022,Belgium,Europe,Volcanic Eruption,1,0,9,1,Rest of World
+2022,Belgium,Europe,Wildfire,4,0.42,27,1,Rest of World
+2022,Brazil,Americas,Cold Wave,5,0.3,29,1,Rest of World
+2022,Brazil,Americas,Drought,5,2.14,25,1,Rest of World
+2022,Brazil,Americas,Earthquake,4,0.24,24,1,Rest of World
+2022,Brazil,Americas,Heatwave,5,5.75,50,2,Rest of World
+2022,Brazil,Americas,Hurricane,4.5,4.8500000000000005,49,2,Rest of World
+2022,Brazil,Americas,Tsunami,3,0.060000000000000005,29,2,Rest of World
+2022,Brazil,Americas,Wildfire,3,0.78,20,1,Rest of World
+2022,Canada,Americas,Cold Wave,5.333333333333333,4.31,595,3,Rest of World
+2022,Canada,Americas,Drought,4,38.59,25,1,Rest of World
+2022,Canada,Americas,Hailstorm,5.333333333333333,1.1600000000000001,100,3,Rest of World
+2022,Canada,Americas,Hurricane,1,0.07,4,1,Rest of World
+2022,Canada,Americas,Landslide,5,0.13,26,1,Rest of World
+2022,Canada,Americas,Tornado,2,0.96,11,1,Rest of World
+2022,Canada,Americas,Volcanic Eruption,3,0.2,47,3,Rest of World
+2022,Chile,Americas,Earthquake,1,0,6,1,Rest of World
+2022,Chile,Americas,Flood,4.5,0.28,154,2,Rest of World
+2022,Chile,Americas,Hailstorm,4.333333333333333,0.13,59,3,Rest of World
+2022,Chile,Americas,Heatwave,3.3333333333333335,0.87,49,3,Rest of World
+2022,Chile,Americas,Hurricane,1,0.01,8,1,Rest of World
+2022,Chile,Americas,Volcanic Eruption,1,0,8,1,Rest of World
+2022,China,Asia,Earthquake,1.5,0.29,18,2,Rest of World
+2022,China,Asia,Flood,8,2.17,396,1,Rest of World
+2022,China,Asia,Hurricane,4,13.670000000000002,115,2,Rest of World
+2022,China,Asia,Landslide,5,4.08,24,1,Rest of World
+2022,China,Asia,Tsunami,1,0.06,7,1,Rest of World
+2022,China,Asia,Volcanic Eruption,1,0.16,6,1,Rest of World
+2022,China,Asia,Wildfire,4,0,19,1,Rest of World
+2022,Colombia,Americas,Drought,1,0.07,2,1,Rest of World
+2022,Colombia,Americas,Earthquake,1,0.01,5,1,Rest of World
+2022,Colombia,Americas,Landslide,8,0.07,42,1,Rest of World
+2022,Colombia,Americas,Tsunami,2,0.02,11,1,Rest of World
+2022,Colombia,Americas,Volcanic Eruption,6,0.05,31,1,Rest of World
+2022,Colombia,Americas,Wildfire,5.666666666666667,0.9099999999999999,332,3,Rest of World
+2022,Czech Republic,Europe,Cold Wave,4.5,0.47000000000000003,58,2,Rest of World
+2022,Czech Republic,Europe,Drought,5,1.38,33,1,Rest of World
+2022,Czech Republic,Europe,Earthquake,2,0.02,5,1,Rest of World
+2022,Czech Republic,Europe,Hailstorm,3,0.02,20,1,Rest of World
+2022,Czech Republic,Europe,Heatwave,7.5,2.2399999999999998,274,2,Rest of World
+2022,Czech Republic,Europe,Landslide,2,0,7,1,Rest of World
+2022,Czech Republic,Europe,Volcanic Eruption,1,0,7,1,Rest of World
+2022,Czech Republic,Europe,Wildfire,6,0.03,26,1,Rest of World
+2022,Denmark,Europe,Cold Wave,4,0.15,20,1,Rest of World
+2022,Denmark,Europe,Drought,5,4.76,150,3,Rest of World
+2022,Denmark,Europe,Flood,5,0.01,19,1,Rest of World
+2022,Denmark,Europe,Heatwave,5.333333333333333,0.5800000000000001,293,3,Rest of World
+2022,Denmark,Europe,Tsunami,1,0,6,1,Rest of World
+2022,Denmark,Europe,Volcanic Eruption,4.5,0.06999999999999999,240,2,Rest of World
+2022,Egypt,Africa,Cold Wave,5.5,0.38,641,2,Rest of World
+2022,Egypt,Africa,Earthquake,5,0.05,20,1,Rest of World
+2022,Egypt,Africa,Heatwave,5.5,1.48,359,2,Rest of World
+2022,Egypt,Africa,Tornado,2,0.01,7,1,Rest of World
+2022,Egypt,Africa,Tsunami,2,0,25,2,Rest of World
+2022,Finland,Europe,Cold Wave,5,3.61,35,1,Rest of World
+2022,Finland,Europe,Earthquake,1,0,1,1,Rest of World
+2022,Finland,Europe,Hailstorm,4,0.01,24,1,Rest of World
+2022,Finland,Europe,Heatwave,6,0.8700000000000001,71,2,Rest of World
+2022,Finland,Europe,Landslide,4,0.03,20,1,Rest of World
+2022,Finland,Europe,Volcanic Eruption,1,0,10,2,Rest of World
+2022,Finland,Europe,Wildfire,5,0.03,27,1,Rest of World
+2022,France,Europe,Cold Wave,5,1.98,347,2,Rest of World
+2022,France,Europe,Drought,7,1.69,149,1,Rest of World
+2022,France,Europe,Flood,3,0.12,16,1,Rest of World
+2022,France,Europe,Heatwave,7,14.84,161,1,Rest of World
+2022,France,Europe,Hurricane,6,7.24,31,1,Rest of World
+2022,France,Europe,Tsunami,2,0.64,42,3,Rest of World
+2022,France,Europe,Volcanic Eruption,1,0.03,7,1,Rest of World
+2022,France,Europe,Wildfire,7,1.23,198,1,Rest of World
+2022,Germany,Europe,Flood,7,2.29,169,1,Rest of World
+2022,Germany,Europe,Hailstorm,2,0.1,14,1,Rest of World
+2022,Germany,Europe,Volcanic Eruption,2.5,0.32,23,2,Rest of World
+2022,Greece,Europe,Cold Wave,2.5,0.14,20,2,Rest of World
+2022,Greece,Europe,Heatwave,4.5,0.5800000000000001,221,2,Rest of World
+2022,Greece,Europe,Hurricane,1.5,0.03,23,2,Rest of World
+2022,Greece,Europe,Landslide,7,0.04,199,1,Rest of World
+2022,Greece,Europe,Tsunami,3.5,0.06,37,2,Rest of World
+2022,Greece,Europe,Volcanic Eruption,2,0,9,1,Rest of World
+2022,Hungary,Europe,Cold Wave,7,1.66,223,1,Rest of World
+2022,Hungary,Europe,Drought,5,0.6,28,1,Rest of World
+2022,Hungary,Europe,Earthquake,3.5,0.16,36,2,Rest of World
+2022,Hungary,Europe,Hailstorm,2,0.01,8,1,Rest of World
+2022,Hungary,Europe,Heatwave,5,0.45999999999999996,621,2,Rest of World
+2022,Hungary,Europe,Hurricane,3,0.04,15,1,Rest of World
+2022,Hungary,Europe,Wildfire,5,0.07,20,1,Rest of World
+2022,India,Asia,Drought,3,18.88,47,2,Rest of World
+2022,India,Asia,Earthquake,1,0.03,21,2,Rest of World
+2022,India,Asia,Flood,2,0.07,13,1,Rest of World
+2022,India,Asia,Hailstorm,6,0.24,31,1,Rest of World
+2022,India,Asia,Landslide,4,1.64,17,1,Rest of World
+2022,India,Asia,Tsunami,4,0.22,25,1,Rest of World
+2022,India,Asia,Volcanic Eruption,3,0.64,20,1,Rest of World
+2022,India,Asia,Wildfire,6,27.759999999999998,63,2,Rest of World
+2022,Indonesia,Asia,Drought,5,4.16,31,1,Rest of World
+2022,Indonesia,Asia,Earthquake,2,0.05,13,1,Rest of World
+2022,Indonesia,Asia,Flood,1,0.01,3,1,Rest of World
+2022,Indonesia,Asia,Heatwave,7,0.1,293,1,Rest of World
+2022,Indonesia,Asia,Hurricane,1,0.01,2,1,Rest of World
+2022,Indonesia,Asia,Landslide,2,0.02,11,1,Rest of World
+2022,Indonesia,Asia,Volcanic Eruption,1,0.04,10,2,Rest of World
+2022,Iraq,Asia,Drought,8,3.49,164,1,Rest of World
+2022,Iraq,Asia,Earthquake,2,0.02,13,1,Rest of World
+2022,Iraq,Asia,Flood,7,0.17,527,1,Rest of World
+2022,Iraq,Asia,Hailstorm,2,0,11,1,Rest of World
+2022,Iraq,Asia,Landslide,2,0,10,1,Rest of World
+2022,Iraq,Asia,Tsunami,2,0,22,1,Rest of World
+2022,Ireland,Europe,Cold Wave,6,4.45,51,2,Rest of World
+2022,Ireland,Europe,Drought,4,1.25,27,1,Rest of World
+2022,Ireland,Europe,Earthquake,1,0,6,1,Rest of World
+2022,Ireland,Europe,Hailstorm,4.5,0.09999999999999999,112,2,Rest of World
+2022,Ireland,Europe,Heatwave,2,0.37,12,1,Rest of World
+2022,Ireland,Europe,Landslide,2,0.01,22,1,Rest of World
+2022,Ireland,Europe,Tornado,5.5,0.14,66,2,Rest of World
+2022,Ireland,Europe,Tsunami,2,0.02,10,1,Rest of World
+2022,Israel,Asia,Cold Wave,6,0.02,41,1,Rest of World
+2022,Israel,Asia,Drought,6,8.03,280,2,Rest of World
+2022,Israel,Asia,Earthquake,2,0.01,10,1,Rest of World
+2022,Israel,Asia,Hailstorm,4,0.01,24,1,Rest of World
+2022,Israel,Asia,Heatwave,5.5,0.94,69,2,Rest of World
+2022,Israel,Asia,Hurricane,2,0.54,14,1,Rest of World
+2022,Israel,Asia,Landslide,3,0.08,42,3,Rest of World
+2022,Israel,Asia,Volcanic Eruption,4.333333333333333,0.19999999999999998,283,3,Rest of World
+2022,Israel,Asia,Wildfire,5,0.13,23,1,Rest of World
+2022,Italy,Europe,Cold Wave,8,29.39,476,1,Rest of World
+2022,Italy,Europe,Drought,6,2.12,42,1,Rest of World
+2022,Italy,Europe,Earthquake,6,0.48,57,2,Rest of World
+2022,Italy,Europe,Flood,3.6666666666666665,4.53,61,3,Rest of World
+2022,Italy,Europe,Heatwave,6,3.93,38,1,Rest of World
+2022,Italy,Europe,Landslide,6,0.2,43,1,Rest of World
+2022,Italy,Europe,Tsunami,4,0.29000000000000004,47,2,Rest of World
+2022,Italy,Europe,Volcanic Eruption,1,0.09,12,2,Rest of World
+2022,Japan,Asia,Earthquake,1,0.12,7,1,Rest of World
+2022,Japan,Asia,Hailstorm,5.5,8.25,331,4,Rest of World
+2022,Japan,Asia,Heatwave,3,36.3,13,1,Rest of World
+2022,Japan,Asia,Hurricane,1,0,5,1,Rest of World
+2022,Japan,Asia,Landslide,6,1.83,40,1,Rest of World
+2022,Japan,Asia,Tornado,6,10.42,238,3,Rest of World
+2022,Japan,Asia,Volcanic Eruption,2,1.5699999999999998,25,2,Rest of World
+2022,Japan,Asia,Wildfire,3,0.1,13,1,Rest of World
+2022,Kazakhstan,Asia,Cold Wave,4.5,4.13,40,2,Rest of World
+2022,Kazakhstan,Asia,Drought,6,3.45,208,2,Rest of World
+2022,Kazakhstan,Asia,Earthquake,1,0,6,1,Rest of World
+2022,Kazakhstan,Asia,Hailstorm,4,0.05,40,2,Rest of World
+2022,Kazakhstan,Asia,Heatwave,1.5,0.41000000000000003,15,2,Rest of World
+2022,Kazakhstan,Asia,Hurricane,2.6666666666666665,0.09,34,3,Rest of World
+2022,Kazakhstan,Asia,Landslide,4,0.05,37,2,Rest of World
+2022,Kazakhstan,Asia,Tornado,4,0.03,15,1,Rest of World
+2022,Kazakhstan,Asia,Volcanic Eruption,3,0.14,26,2,Rest of World
+2022,Malaysia,Asia,Cold Wave,6,4.49,39,1,Rest of World
+2022,Malaysia,Asia,Drought,6,3.42,31,1,Rest of World
+2022,Malaysia,Asia,Earthquake,2,0.13,4,1,Rest of World
+2022,Malaysia,Asia,Hailstorm,9,0.24,169,1,Rest of World
+2022,Malaysia,Asia,Heatwave,5,0.06,31,1,Rest of World
+2022,Malaysia,Asia,Hurricane,1,0,6,1,Rest of World
+2022,Malaysia,Asia,Tornado,3,0.04,35,2,Rest of World
+2022,Malaysia,Asia,Tsunami,3,0.03,16,1,Rest of World
+2022,Malaysia,Asia,Volcanic Eruption,2,0.01,32,2,Rest of World
+2022,Malaysia,Asia,Wildfire,2,0.14,11,1,Rest of World
+2022,Mexico,Americas,Cold Wave,5,7.95,320,3,Rest of World
+2022,Mexico,Americas,Earthquake,3,0.13,20,1,Rest of World
+2022,Mexico,Americas,Heatwave,5,10.1,18,1,Rest of World
+2022,Mexico,Americas,Hurricane,1,0.12,2,1,Rest of World
+2022,Mexico,Americas,Landslide,6,0.22,29,1,Rest of World
+2022,Mexico,Americas,Volcanic Eruption,3,0.05,11,1,Rest of World
+2022,Mexico,Americas,Wildfire,4,0.12,15,1,Rest of World
+2022,Netherlands,Europe,Cold Wave,3,2.36,12,1,Rest of World
+2022,Netherlands,Europe,Drought,4,0.13,12,1,Rest of World
+2022,Netherlands,Europe,Flood,3,0.75,14,1,Rest of World
+2022,Netherlands,Europe,Hailstorm,5,0.08,28,1,Rest of World
+2022,Netherlands,Europe,Heatwave,5,14.32,53,2,Rest of World
+2022,Netherlands,Europe,Volcanic Eruption,1,0.01,16,1,Rest of World
+2022,Netherlands,Europe,Wildfire,7,3.66,451,1,Rest of World
+2022,New Zealand,Oceania,Earthquake,3,0.15,60,3,Rest of World
+2022,New Zealand,Oceania,Hailstorm,4.333333333333333,0.18,87,3,Rest of World
+2022,New Zealand,Oceania,Heatwave,3,0.01,8,1,Rest of World
+2022,New Zealand,Oceania,Tsunami,5,0.01,25,1,Rest of World
+2022,New Zealand,Oceania,Wildfire,3.5,0.06,34,2,Rest of World
+2022,Nigeria,Africa,Cold Wave,2,3.89,13,1,Rest of World
+2022,Nigeria,Africa,Tornado,6,0.04,28,1,Rest of World
+2022,Nigeria,Africa,Wildfire,3.5,0.2,55,2,Rest of World
+2022,Pakistan,Asia,Cold Wave,7,4.32,179,1,Rest of World
+2022,Pakistan,Asia,Flood,6,1.42,35,1,Rest of World
+2022,Pakistan,Asia,Landslide,5.5,0.13,67,2,Rest of World
+2022,Pakistan,Asia,Tornado,6,0.01,24,1,Rest of World
+2022,Pakistan,Asia,Tsunami,3,0.02,20,1,Rest of World
+2022,Pakistan,Asia,Wildfire,5.333333333333333,1.5699999999999998,253,3,Rest of World
+2022,Peru,Americas,Cold Wave,7,0.43,374,1,Rest of World
+2022,Peru,Americas,Earthquake,3,0.01,11,1,Rest of World
+2022,Peru,Americas,Flood,4,0.08,23,1,Rest of World
+2022,Peru,Americas,Hailstorm,1,0,2,1,Rest of World
+2022,Peru,Americas,Heatwave,3,0.03,26,2,Rest of World
+2022,Peru,Americas,Hurricane,2,0,9,1,Rest of World
+2022,Peru,Americas,Tornado,6,0.16,64,2,Rest of World
+2022,Peru,Americas,Tsunami,2,0.01,12,1,Rest of World
+2022,Peru,Americas,Volcanic Eruption,3,0.01,13,1,Rest of World
+2022,Philippines,Asia,Drought,3,1.6,13,1,Rest of World
+2022,Philippines,Asia,Earthquake,2.5,0.01,32,2,Rest of World
+2022,Philippines,Asia,Hailstorm,5,0.04,27,1,Rest of World
+2022,Philippines,Asia,Heatwave,4,0.07,21,1,Rest of World
+2022,Philippines,Asia,Hurricane,3,0.43,18,1,Rest of World
+2022,Philippines,Asia,Landslide,6,0.08,32,1,Rest of World
+2022,Philippines,Asia,Tsunami,1,0,11,1,Rest of World
+2022,Philippines,Asia,Volcanic Eruption,3,0.02,15,1,Rest of World
+2022,Poland,Europe,Drought,5,0.03,33,1,Rest of World
+2022,Poland,Europe,Flood,4,0.03,36,2,Rest of World
+2022,Poland,Europe,Hailstorm,4,0.04,20,1,Rest of World
+2022,Portugal,Europe,Cold Wave,3.3333333333333335,4.7,67,3,Rest of World
+2022,Portugal,Europe,Drought,2,0.1,13,1,Rest of World
+2022,Portugal,Europe,Earthquake,6,0.05,40,1,Rest of World
+2022,Portugal,Europe,Flood,4,0.03,23,1,Rest of World
+2022,Portugal,Europe,Landslide,2,0,15,2,Rest of World
+2022,Portugal,Europe,Tornado,6,0.09,23,1,Rest of World
+2022,Portugal,Europe,Tsunami,2,0.02,9,1,Rest of World
+2022,Portugal,Europe,Volcanic Eruption,3,0,16,1,Rest of World
+2022,Portugal,Europe,Wildfire,7,0.08,288,1,Rest of World
+2022,Qatar,Asia,Cold Wave,6,0.1,36,1,Rest of World
+2022,Qatar,Asia,Drought,3,0.49,32,2,Rest of World
+2022,Qatar,Asia,Hailstorm,5,0.03,59,2,Rest of World
+2022,Qatar,Asia,Landslide,7,0.06,57,1,Rest of World
+2022,Qatar,Asia,Volcanic Eruption,2,0,13,1,Rest of World
+2022,Qatar,Asia,Wildfire,2.5,0.07,31,2,Rest of World
+2022,Romania,Europe,Earthquake,3,0.08,56,4,Rest of World
+2022,Romania,Europe,Heatwave,8,3.85,179,1,Rest of World
+2022,Romania,Europe,Hurricane,3,0.41,15,1,Rest of World
+2022,Romania,Europe,Tsunami,1,0.01,3,1,Rest of World
+2022,Romania,Europe,Wildfire,6,0.33,25,1,Rest of World
+2022,Russia,Europe,Cold Wave,7,14.83,184,1,Rest of World
+2022,Russia,Europe,Drought,3,6,19,1,Rest of World
+2022,Russia,Europe,Flood,5.5,10.78,242,2,Rest of World
+2022,Russia,Europe,Hailstorm,4,0.09,20,1,Rest of World
+2022,Russia,Europe,Heatwave,4,14.85,19,1,Rest of World
+2022,Russia,Europe,Landslide,5,0.16,34,1,Rest of World
+2022,Russia,Europe,Tornado,7,0.65,103,1,Rest of World
+2022,Russia,Europe,Tsunami,3,0.14,16,1,Rest of World
+2022,Russia,Europe,Volcanic Eruption,1,0,5,1,Rest of World
+2022,Russia,Europe,Wildfire,2,0.2,12,1,Rest of World
+2022,Saudi Arabia,Asia,Earthquake,3,0.01,15,1,Rest of World
+2022,Saudi Arabia,Asia,Flood,4,1.39,20,1,Rest of World
+2022,Saudi Arabia,Asia,Heatwave,3,0.05,18,1,Rest of World
+2022,Saudi Arabia,Asia,Landslide,4.5,1.03,55,2,Rest of World
+2022,Saudi Arabia,Asia,Tornado,4,0.2,30,1,Rest of World
+2022,Saudi Arabia,Asia,Tsunami,3,0.05,10,1,Rest of World
+2022,Saudi Arabia,Asia,Volcanic Eruption,1,0.02,11,2,Rest of World
+2022,Saudi Arabia,Asia,Wildfire,2,0.37,7,1,Rest of World
+2022,Singapore,Asia,Cold Wave,4.8,1.6400000000000001,255,5,Rest of World
+2022,Singapore,Asia,Earthquake,1,0,5,1,Rest of World
+2022,Singapore,Asia,Flood,7,1.39,102,1,Rest of World
+2022,Singapore,Asia,Tornado,5,0.05,29,1,Rest of World
+2022,Singapore,Asia,Tsunami,2,0.01,9,1,Rest of World
+2022,Singapore,Asia,Wildfire,4.5,0.28,38,2,Rest of World
+2022,South Africa,Africa,Cold Wave,4,3.0100000000000002,81,3,Rest of World
+2022,South Africa,Africa,Drought,3,1.61,17,1,Rest of World
+2022,South Africa,Africa,Earthquake,1,0,4,1,Rest of World
+2022,South Africa,Africa,Hurricane,1,0.02,9,1,Rest of World
+2022,South Africa,Africa,Landslide,5,0,26,1,Rest of World
+2022,South Africa,Africa,Tornado,4,0.05,40,2,Rest of World
+2022,South Africa,Africa,Tsunami,2,0.02,36,3,Rest of World
+2022,South Korea,Asia,Earthquake,2,0.05,9,1,Rest of World
+2022,South Korea,Asia,Flood,6,0.66,31,1,Rest of World
+2022,South Korea,Asia,Heatwave,5,1.63,17,1,Rest of World
+2022,South Korea,Asia,Landslide,5,0.51,22,1,Rest of World
+2022,South Korea,Asia,Tornado,5,0.67,31,1,Rest of World
+2022,South Korea,Asia,Tsunami,1,0.06,11,2,Rest of World
+2022,South Korea,Asia,Volcanic Eruption,1,0,4,1,Rest of World
+2022,South Korea,Asia,Wildfire,4,0.7,23,1,Rest of World
+2022,Sweden,Europe,Cold Wave,7,7.31,85,1,Rest of World
+2022,Sweden,Europe,Drought,6,1.71,26,1,Rest of World
+2022,Sweden,Europe,Hailstorm,8,0.88,505,1,Rest of World
+2022,Sweden,Europe,Landslide,4,0.13,42,2,Rest of World
+2022,Sweden,Europe,Tornado,5.5,0.13,149,2,Rest of World
+2022,Sweden,Europe,Tsunami,1,0.01,4,1,Rest of World
+2022,Sweden,Europe,Volcanic Eruption,1.5,0.03,15,2,Rest of World
+2022,Switzerland,Europe,Cold Wave,3,3.46,43,2,Rest of World
+2022,Switzerland,Europe,Drought,6,17.14,409,3,Rest of World
+2022,Switzerland,Europe,Earthquake,1,0.01,4,1,Rest of World
+2022,Switzerland,Europe,Flood,4,0.13,28,1,Rest of World
+2022,Switzerland,Europe,Hailstorm,3,0.09,20,1,Rest of World
+2022,Switzerland,Europe,Hurricane,4,0.22,42,2,Rest of World
+2022,Switzerland,Europe,Tsunami,2,0.09,28,2,Rest of World
+2022,Switzerland,Europe,Volcanic Eruption,2,0.02,7,1,Rest of World
+2022,Thailand,Asia,Cold Wave,6,15.43,322,3,Rest of World
+2022,Thailand,Asia,Drought,9,4.38,458,1,Rest of World
+2022,Thailand,Asia,Heatwave,6,3.72,33,1,Rest of World
+2022,Thailand,Asia,Landslide,6,0.19,29,1,Rest of World
+2022,Thailand,Asia,Tornado,5,0.1,25,1,Rest of World
+2022,Thailand,Asia,Tsunami,2,0.02,10,1,Rest of World
+2022,Thailand,Asia,Volcanic Eruption,1,0,19,2,Rest of World
+2022,Thailand,Asia,Wildfire,6,0.42,28,1,Rest of World
+2022,Turkey,Asia,Earthquake,3,0.01,31,2,Rest of World
+2022,Turkey,Asia,Flood,3,0.02,20,1,Rest of World
+2022,Turkey,Asia,Hailstorm,6,0.27,434,2,Rest of World
+2022,Turkey,Asia,Hurricane,2,0.29,6,1,Rest of World
+2022,Turkey,Asia,Tornado,5,0.22,31,1,Rest of World
+2022,Turkey,Asia,Tsunami,1,0,7,1,Rest of World
+2022,UAE,Asia,Drought,3,0.22,11,1,Rest of World
+2022,UAE,Asia,Earthquake,1.5,0.01,15,2,Rest of World
+2022,UAE,Asia,Hailstorm,5,0.22000000000000003,54,2,Rest of World
+2022,UAE,Asia,Landslide,5,0.14,26,1,Rest of World
+2022,UAE,Asia,Tsunami,2,0.02,13,1,Rest of World
+2022,UAE,Asia,Wildfire,5,0.11,30,1,Rest of World
+2022,United Kingdom,Europe,Drought,7,33.33,174,1,Rest of World
+2022,United Kingdom,Europe,Flood,6,0.67,30,1,Rest of World
+2022,United Kingdom,Europe,Hailstorm,3,0.27,18,1,Rest of World
+2022,United Kingdom,Europe,Hurricane,1.6666666666666667,0.2,30,3,Rest of World
+2022,United Kingdom,Europe,Landslide,2,0.05,13,1,Rest of World
+2022,United Kingdom,Europe,Tornado,3,0.02,16,1,Rest of World
+2022,United Kingdom,Europe,Volcanic Eruption,2,0.21,14,1,Rest of World
+2022,United States,Americas,Cold Wave,3,34.43,35,2,Rest of World
+2022,United States,Americas,Drought,3,30.8,30,1,Rest of World
+2022,United States,Americas,Earthquake,1,0.08,9,1,Rest of World
+2022,United States,Americas,Heatwave,4,44.97,19,1,Rest of World
+2022,United States,Americas,Tornado,6,19.68,39,1,Rest of World
+2022,United States,Americas,Volcanic Eruption,1,0.19,5,1,Rest of World
+2022,Vietnam,Asia,Cold Wave,3,0.68,15,1,Rest of World
+2022,Vietnam,Asia,Drought,6,1.21,38,1,Rest of World
+2022,Vietnam,Asia,Flood,7,0.35,292,1,Rest of World
+2022,Vietnam,Asia,Hailstorm,7,0.03,163,1,Rest of World
+2022,Vietnam,Asia,Hurricane,2,0.03,12,1,Rest of World
+2022,Vietnam,Asia,Tornado,5.666666666666667,0.34,338,3,Rest of World
+2022,Vietnam,Asia,Tsunami,1,0,4,1,Rest of World
+2022,Vietnam,Asia,Volcanic Eruption,3,0.05,8,1,Rest of World
+2023,Argentina,Americas,Cold Wave,4,4.4,23,1,Rest of World
+2023,Argentina,Americas,Earthquake,3,0.08,20,1,Rest of World
+2023,Argentina,Americas,Flood,3,0,22,1,Rest of World
+2023,Argentina,Americas,Hailstorm,4,0.06,40,2,Rest of World
+2023,Argentina,Americas,Heatwave,7,4.37,340,2,Rest of World
+2023,Argentina,Americas,Hurricane,4,0,19,1,Rest of World
+2023,Argentina,Americas,Landslide,6,0.02,27,1,Rest of World
+2023,Argentina,Americas,Tornado,4,0.060000000000000005,45,2,Rest of World
+2023,Argentina,Americas,Volcanic Eruption,4,0.01,20,1,Rest of World
+2023,Australia,Oceania,Cold Wave,3,6.35,58,3,Australia
+2023,Australia,Oceania,Drought,3,3.76,14,1,Australia
+2023,Australia,Oceania,Flood,7,1.49,184,1,Australia
+2023,Australia,Oceania,Hurricane,2,4.49,32,2,Australia
+2023,Australia,Oceania,Tornado,5,0.08,26,1,Australia
+2023,Australia,Oceania,Tsunami,4,0.06,15,1,Australia
+2023,Australia,Oceania,Wildfire,6,0.18,33,1,Australia
+2023,Austria,Europe,Drought,2,0.27,19,2,Rest of World
+2023,Austria,Europe,Flood,4,0,30,1,Rest of World
+2023,Austria,Europe,Heatwave,6,0.82,25,1,Rest of World
+2023,Austria,Europe,Hurricane,4,0.04,20,1,Rest of World
+2023,Austria,Europe,Tornado,8,0.17,70,1,Rest of World
+2023,Austria,Europe,Tsunami,1.3333333333333333,0.01,16,3,Rest of World
+2023,Austria,Europe,Volcanic Eruption,3,0,18,1,Rest of World
+2023,Bangladesh,Asia,Drought,5,0.16999999999999998,147,2,Rest of World
+2023,Bangladesh,Asia,Earthquake,2.5,0.01,29,2,Rest of World
+2023,Bangladesh,Asia,Flood,6,0.36,56,2,Rest of World
+2023,Bangladesh,Asia,Tornado,7,0.11,198,1,Rest of World
+2023,Bangladesh,Asia,Tsunami,2.25,0.07,43,4,Rest of World
+2023,Bangladesh,Asia,Wildfire,5,0.11,21,1,Rest of World
+2023,Belgium,Europe,Cold Wave,6,19.71,37,1,Rest of World
+2023,Belgium,Europe,Drought,5,0.69,33,1,Rest of World
+2023,Belgium,Europe,Earthquake,2,0.03,8,1,Rest of World
+2023,Belgium,Europe,Hailstorm,1,0,2,1,Rest of World
+2023,Belgium,Europe,Heatwave,3,2.14,16,1,Rest of World
+2023,Belgium,Europe,Landslide,6,0.7,45,1,Rest of World
+2023,Belgium,Europe,Tsunami,3,0.01,17,1,Rest of World
+2023,Belgium,Europe,Wildfire,6,0.05,21,1,Rest of World
+2023,Brazil,Americas,Cold Wave,2,0.82,17,1,Rest of World
+2023,Brazil,Americas,Drought,7,25.33,322,1,Rest of World
+2023,Brazil,Americas,Earthquake,1,0.01,5,2,Rest of World
+2023,Brazil,Americas,Flood,2,0.31,10,1,Rest of World
+2023,Brazil,Americas,Hailstorm,7,0.56,186,1,Rest of World
+2023,Brazil,Americas,Heatwave,3,0.53,18,1,Rest of World
+2023,Brazil,Americas,Landslide,5,0.15,22,1,Rest of World
+2023,Brazil,Americas,Tsunami,1,0.02,2,1,Rest of World
+2023,Canada,Americas,Drought,4,4.05,22,1,Rest of World
+2023,Canada,Americas,Earthquake,4,0.07,21,1,Rest of World
+2023,Canada,Americas,Flood,5,6.55,21,1,Rest of World
+2023,Canada,Americas,Hailstorm,6,1.12,38,1,Rest of World
+2023,Canada,Americas,Heatwave,5,8.14,30,1,Rest of World
+2023,Canada,Americas,Hurricane,3.5,0.01,47,2,Rest of World
+2023,Canada,Americas,Landslide,3,0.08,12,1,Rest of World
+2023,Canada,Americas,Tornado,3,0.07,16,1,Rest of World
+2023,Canada,Americas,Tsunami,2,0.07,6,1,Rest of World
+2023,Canada,Americas,Volcanic Eruption,3,0.13,27,1,Rest of World
+2023,Chile,Americas,Earthquake,2.25,0.03,46,4,Rest of World
+2023,Chile,Americas,Flood,6,0.19,30,1,Rest of World
+2023,Chile,Americas,Landslide,6.5,0.64,193,2,Rest of World
+2023,Chile,Americas,Tsunami,3.5,0.08,37,2,Rest of World
+2023,Chile,Americas,Volcanic Eruption,3,0.02,20,1,Rest of World
+2023,Chile,Americas,Wildfire,4.5,0.8699999999999999,46,2,Rest of World
+2023,China,Asia,Drought,4,14.09,26,1,Rest of World
+2023,China,Asia,Earthquake,6,0.41,37,1,Rest of World
+2023,China,Asia,Flood,4,10.89,23,1,Rest of World
+2023,China,Asia,Hurricane,1,0.12,3,1,Rest of World
+2023,China,Asia,Landslide,5,1.24,36,1,Rest of World
+2023,China,Asia,Tsunami,1,0.1,8,1,Rest of World
+2023,China,Asia,Volcanic Eruption,2,0.87,12,1,Rest of World
+2023,Colombia,Americas,Drought,6,0.87,28,1,Rest of World
+2023,Colombia,Americas,Earthquake,4,0.18000000000000002,38,2,Rest of World
+2023,Colombia,Americas,Heatwave,2.5,0.35,19,2,Rest of World
+2023,Colombia,Americas,Hurricane,2,0.18,24,2,Rest of World
+2023,Colombia,Americas,Landslide,3,0.03,15,1,Rest of World
+2023,Colombia,Americas,Tornado,3,0.01,11,1,Rest of World
+2023,Colombia,Americas,Tsunami,1.5,0.01,23,2,Rest of World
+2023,Colombia,Americas,Wildfire,5,0.99,196,2,Rest of World
+2023,Czech Republic,Europe,Cold Wave,2,0.09,9,1,Rest of World
+2023,Czech Republic,Europe,Drought,4,0.41,46,3,Rest of World
+2023,Czech Republic,Europe,Earthquake,1,0,7,1,Rest of World
+2023,Czech Republic,Europe,Flood,3,0.01,18,1,Rest of World
+2023,Czech Republic,Europe,Heatwave,5.5,1.1,220,2,Rest of World
+2023,Czech Republic,Europe,Hurricane,3,0,14,1,Rest of World
+2023,Czech Republic,Europe,Tornado,4,0.18000000000000002,45,2,Rest of World
+2023,Czech Republic,Europe,Tsunami,5,0.01,27,1,Rest of World
+2023,Denmark,Europe,Cold Wave,3,0.33,15,1,Rest of World
+2023,Denmark,Europe,Drought,3,0.09,23,1,Rest of World
+2023,Denmark,Europe,Earthquake,3.25,0.03,78,4,Rest of World
+2023,Denmark,Europe,Hailstorm,6,0.02,32,1,Rest of World
+2023,Denmark,Europe,Heatwave,3,0.17,12,1,Rest of World
+2023,Denmark,Europe,Hurricane,1,0,6,1,Rest of World
+2023,Denmark,Europe,Landslide,5.5,0.1,65,2,Rest of World
+2023,Denmark,Europe,Tsunami,1.5,0,19,2,Rest of World
+2023,Denmark,Europe,Volcanic Eruption,2,0.03,14,1,Rest of World
+2023,Egypt,Africa,Drought,2.5,0.6900000000000001,29,2,Rest of World
+2023,Egypt,Africa,Earthquake,1,0,9,2,Rest of World
+2023,Egypt,Africa,Flood,4,0.09,47,2,Rest of World
+2023,Egypt,Africa,Hailstorm,1,0,7,1,Rest of World
+2023,Egypt,Africa,Hurricane,1.5,0.05,18,2,Rest of World
+2023,Egypt,Africa,Landslide,5,0.1,32,1,Rest of World
+2023,Egypt,Africa,Tsunami,5.5,0.48,57,2,Rest of World
+2023,Egypt,Africa,Volcanic Eruption,2.5,0.04,30,2,Rest of World
+2023,Egypt,Africa,Wildfire,4,0.08,27,1,Rest of World
+2023,Finland,Europe,Cold Wave,7,0.92,175,1,Rest of World
+2023,Finland,Europe,Earthquake,1,0,9,1,Rest of World
+2023,Finland,Europe,Heatwave,1,0.02,8,1,Rest of World
+2023,Finland,Europe,Hurricane,2.5,0.09,26,2,Rest of World
+2023,Finland,Europe,Landslide,4,0.01,19,1,Rest of World
+2023,Finland,Europe,Tornado,5,0.06,23,1,Rest of World
+2023,Finland,Europe,Tsunami,1,0,5,1,Rest of World
+2023,Finland,Europe,Volcanic Eruption,1,0,4,1,Rest of World
+2023,Finland,Europe,Wildfire,3,0.22,9,1,Rest of World
+2023,France,Europe,Drought,4,9,26,1,Rest of World
+2023,France,Europe,Earthquake,3,0.23,25,1,Rest of World
+2023,France,Europe,Flood,7.5,23.96,903,2,Rest of World
+2023,France,Europe,Hailstorm,3,0.93,18,1,Rest of World
+2023,France,Europe,Hurricane,3,0.68,11,1,Rest of World
+2023,France,Europe,Landslide,6,0.07,29,1,Rest of World
+2023,France,Europe,Tsunami,5,0.12,24,1,Rest of World
+2023,France,Europe,Wildfire,5,1.94,26,1,Rest of World
+2023,Germany,Europe,Hailstorm,3,0.15,18,1,Rest of World
+2023,Germany,Europe,Tsunami,3.5,0.98,28,2,Rest of World
+2023,Germany,Europe,Volcanic Eruption,1,0.09000000000000001,8,2,Rest of World
+2023,Germany,Europe,Wildfire,4.333333333333333,9.2,73,3,Rest of World
+2023,Greece,Europe,Cold Wave,2,0.08,16,1,Rest of World
+2023,Greece,Europe,Drought,3,2.18,56,3,Rest of World
+2023,Greece,Europe,Flood,3,0.77,18,1,Rest of World
+2023,Greece,Europe,Hailstorm,5,0.03,21,1,Rest of World
+2023,Greece,Europe,Heatwave,4,0.16,24,1,Rest of World
+2023,Greece,Europe,Hurricane,2,0.04,25,2,Rest of World
+2023,Greece,Europe,Landslide,6,0.05,38,1,Rest of World
+2023,Greece,Europe,Tornado,3,0.01,40,2,Rest of World
+2023,Greece,Europe,Tsunami,1.5,0.01,14,2,Rest of World
+2023,Greece,Europe,Volcanic Eruption,2.5,0.02,30,2,Rest of World
+2023,Greece,Europe,Wildfire,5.5,0.9299999999999999,59,2,Rest of World
+2023,Hungary,Europe,Cold Wave,4.5,0.8,54,2,Rest of World
+2023,Hungary,Europe,Drought,6,0.68,59,2,Rest of World
+2023,Hungary,Europe,Earthquake,2,0,13,1,Rest of World
+2023,Hungary,Europe,Flood,2,0.03,8,1,Rest of World
+2023,Hungary,Europe,Hailstorm,4,0.04,29,1,Rest of World
+2023,Hungary,Europe,Heatwave,5.333333333333333,6.87,556,3,Rest of World
+2023,Hungary,Europe,Hurricane,2.6666666666666665,0.12,37,3,Rest of World
+2023,Hungary,Europe,Landslide,3,0.01,11,1,Rest of World
+2023,Hungary,Europe,Volcanic Eruption,1,0.01,7,1,Rest of World
+2023,India,Asia,Drought,3,1.44,7,1,Rest of World
+2023,India,Asia,Flood,6,2.06,41,1,Rest of World
+2023,India,Asia,Hailstorm,5.5,2.9400000000000004,63,2,Rest of World
+2023,India,Asia,Hurricane,6,2.86,39,1,Rest of World
+2023,India,Asia,Volcanic Eruption,2.5,2.21,28,2,Rest of World
+2023,India,Asia,Wildfire,2,0.19,11,1,Rest of World
+2023,Indonesia,Asia,Cold Wave,6,13.08,164,2,Rest of World
+2023,Indonesia,Asia,Drought,4,20.830000000000002,77,3,Rest of World
+2023,Indonesia,Asia,Earthquake,1,0.01,7,1,Rest of World
+2023,Indonesia,Asia,Heatwave,3,0.64,17,1,Rest of World
+2023,Indonesia,Asia,Hurricane,4,0.39,18,1,Rest of World
+2023,Indonesia,Asia,Landslide,2,0.26,14,1,Rest of World
+2023,Indonesia,Asia,Volcanic Eruption,1,0.03,10,2,Rest of World
+2023,Indonesia,Asia,Wildfire,5,1.04,24,1,Rest of World
+2023,Iraq,Asia,Drought,7,0.22,213,1,Rest of World
+2023,Iraq,Asia,Earthquake,5,0.07,47,2,Rest of World
+2023,Iraq,Asia,Hailstorm,5.5,0.04,51,2,Rest of World
+2023,Iraq,Asia,Landslide,6,0,38,1,Rest of World
+2023,Iraq,Asia,Tsunami,1,0.01,5,1,Rest of World
+2023,Iraq,Asia,Volcanic Eruption,1,0,8,1,Rest of World
+2023,Ireland,Europe,Drought,8,12.54,196,1,Rest of World
+2023,Ireland,Europe,Earthquake,1,0,7,1,Rest of World
+2023,Ireland,Europe,Flood,5,0.12,24,1,Rest of World
+2023,Ireland,Europe,Hailstorm,4,0.02,33,1,Rest of World
+2023,Ireland,Europe,Tornado,4,0.48000000000000004,261,4,Rest of World
+2023,Ireland,Europe,Tsunami,5,0.03,22,1,Rest of World
+2023,Israel,Asia,Cold Wave,4,8.38,50,2,Rest of World
+2023,Israel,Asia,Drought,4.333333333333333,8.46,78,3,Rest of World
+2023,Israel,Asia,Earthquake,2.5,0.03,39,2,Rest of World
+2023,Israel,Asia,Hailstorm,8,0.15,166,1,Rest of World
+2023,Israel,Asia,Heatwave,5.5,10.51,189,2,Rest of World
+2023,Israel,Asia,Hurricane,4,0.07,20,1,Rest of World
+2023,Israel,Asia,Landslide,6,0.02,31,1,Rest of World
+2023,Israel,Asia,Tornado,5.5,0.24000000000000002,518,2,Rest of World
+2023,Israel,Asia,Tsunami,1.5,0.01,16,2,Rest of World
+2023,Israel,Asia,Volcanic Eruption,2,0.06,13,1,Rest of World
+2023,Israel,Asia,Wildfire,3.3333333333333335,0.13999999999999999,53,3,Rest of World
+2023,Italy,Europe,Cold Wave,3,4.39,19,1,Rest of World
+2023,Italy,Europe,Drought,1,0.05,6,1,Rest of World
+2023,Italy,Europe,Flood,3,0.37,9,1,Rest of World
+2023,Italy,Europe,Hailstorm,1,0.04,5,1,Rest of World
+2023,Italy,Europe,Heatwave,6.5,8.61,251,2,Rest of World
+2023,Italy,Europe,Hurricane,4,0.34,22,1,Rest of World
+2023,Italy,Europe,Tornado,4,0.25,25,1,Rest of World
+2023,Italy,Europe,Volcanic Eruption,1,0.02,2,1,Rest of World
+2023,Italy,Europe,Wildfire,6,5.88,37,1,Rest of World
+2023,Japan,Asia,Flood,6,1.27,28,1,Rest of World
+2023,Japan,Asia,Hailstorm,4.333333333333333,1.81,69,3,Rest of World
+2023,Japan,Asia,Landslide,4.5,1.07,39,2,Rest of World
+2023,Japan,Asia,Tornado,5,0.79,17,1,Rest of World
+2023,Japan,Asia,Tsunami,2.5,0.42,22,2,Rest of World
+2023,Japan,Asia,Wildfire,3.5,18.21,86,4,Rest of World
+2023,Kazakhstan,Asia,Cold Wave,1,0.01,5,1,Rest of World
+2023,Kazakhstan,Asia,Flood,4.5,0.19,45,2,Rest of World
+2023,Kazakhstan,Asia,Hailstorm,3,0.01,12,1,Rest of World
+2023,Kazakhstan,Asia,Heatwave,3.5,0.7000000000000001,37,2,Rest of World
+2023,Kazakhstan,Asia,Landslide,6,0.07,75,2,Rest of World
+2023,Kazakhstan,Asia,Tornado,3,0.02,13,1,Rest of World
+2023,Kazakhstan,Asia,Tsunami,4,0.04,14,1,Rest of World
+2023,Kazakhstan,Asia,Volcanic Eruption,2.5,0.02,22,2,Rest of World
+2023,Malaysia,Asia,Drought,6,0.8,27,1,Rest of World
+2023,Malaysia,Asia,Hurricane,3,0.06,20,1,Rest of World
+2023,Malaysia,Asia,Landslide,5,0.16999999999999998,56,2,Rest of World
+2023,Malaysia,Asia,Tsunami,1.6666666666666667,0.02,32,3,Rest of World
+2023,Mexico,Americas,Earthquake,5,0.29000000000000004,45,2,Rest of World
+2023,Mexico,Americas,Flood,5,0.72,38,1,Rest of World
+2023,Mexico,Americas,Hurricane,2.6666666666666665,0.43,34,3,Rest of World
+2023,Mexico,Americas,Landslide,4,0.18,22,1,Rest of World
+2023,Mexico,Americas,Tornado,6.5,0.38,259,2,Rest of World
+2023,Mexico,Americas,Tsunami,2.5,0.16,29,2,Rest of World
+2023,Mexico,Americas,Volcanic Eruption,2,0.09,14,1,Rest of World
+2023,Netherlands,Europe,Drought,4,14.28,44,2,Rest of World
+2023,Netherlands,Europe,Earthquake,3,0.16,12,1,Rest of World
+2023,Netherlands,Europe,Flood,4,0.05,21,1,Rest of World
+2023,Netherlands,Europe,Heatwave,6.25,13.85,289,4,Rest of World
+2023,Netherlands,Europe,Landslide,5,0.65,92,3,Rest of World
+2023,Netherlands,Europe,Tsunami,1,0.04,7,1,Rest of World
+2023,Netherlands,Europe,Volcanic Eruption,3,0.06,43,2,Rest of World
+2023,Netherlands,Europe,Wildfire,7,1.29,253,1,Rest of World
+2023,New Zealand,Oceania,Cold Wave,4.5,2.42,53,2,Rest of World
+2023,New Zealand,Oceania,Drought,5.333333333333333,2.44,85,3,Rest of World
+2023,New Zealand,Oceania,Earthquake,1,0,5,1,Rest of World
+2023,New Zealand,Oceania,Hailstorm,4.5,0.04,42,2,Rest of World
+2023,New Zealand,Oceania,Heatwave,5,0.57,31,1,Rest of World
+2023,New Zealand,Oceania,Landslide,5,0.03,25,1,Rest of World
+2023,New Zealand,Oceania,Tornado,6,0.05,72,2,Rest of World
+2023,New Zealand,Oceania,Tsunami,3.3333333333333335,0.02,47,3,Rest of World
+2023,New Zealand,Oceania,Wildfire,1,0,6,1,Rest of World
+2023,Nigeria,Africa,Drought,3,0.26,22,1,Rest of World
+2023,Nigeria,Africa,Earthquake,2,0.02,22,2,Rest of World
+2023,Nigeria,Africa,Flood,1,0,5,1,Rest of World
+2023,Nigeria,Africa,Heatwave,3,0,12,1,Rest of World
+2023,Nigeria,Africa,Hurricane,1,0.04,11,2,Rest of World
+2023,Nigeria,Africa,Landslide,4,0.03,18,1,Rest of World
+2023,Nigeria,Africa,Tsunami,2.5,0.09,30,2,Rest of World
+2023,Nigeria,Africa,Volcanic Eruption,2,0.01,11,1,Rest of World
+2023,Nigeria,Africa,Wildfire,4,0.03,28,1,Rest of World
+2023,Pakistan,Asia,Cold Wave,5,2.4299999999999997,236,2,Rest of World
+2023,Pakistan,Asia,Drought,6,7.95,38,1,Rest of World
+2023,Pakistan,Asia,Heatwave,1,0.03,6,1,Rest of World
+2023,Pakistan,Asia,Tornado,7,0.04,470,1,Rest of World
+2023,Pakistan,Asia,Tsunami,1,0,7,1,Rest of World
+2023,Pakistan,Asia,Volcanic Eruption,3,0,10,1,Rest of World
+2023,Peru,Americas,Drought,2,0.05,12,1,Rest of World
+2023,Peru,Americas,Hailstorm,4.333333333333333,0.16,84,3,Rest of World
+2023,Peru,Americas,Heatwave,5,0.78,31,1,Rest of World
+2023,Peru,Americas,Tornado,6,0.43,27,1,Rest of World
+2023,Peru,Americas,Tsunami,1.5,0.01,20,2,Rest of World
+2023,Peru,Americas,Volcanic Eruption,1.5,0,13,2,Rest of World
+2023,Philippines,Asia,Drought,2,2.2,11,1,Rest of World
+2023,Philippines,Asia,Earthquake,2,0.01,10,1,Rest of World
+2023,Philippines,Asia,Heatwave,3.5,1.03,39,2,Rest of World
+2023,Philippines,Asia,Landslide,7,0.11,51,1,Rest of World
+2023,Philippines,Asia,Tornado,5,0.07,31,1,Rest of World
+2023,Philippines,Asia,Volcanic Eruption,1,0,12,1,Rest of World
+2023,Poland,Europe,Cold Wave,3.5,15.24,43,2,Rest of World
+2023,Poland,Europe,Earthquake,1,0,5,1,Rest of World
+2023,Poland,Europe,Flood,3,0,20,1,Rest of World
+2023,Poland,Europe,Hurricane,2.5,0.15,34,2,Rest of World
+2023,Poland,Europe,Landslide,4,0.11,32,1,Rest of World
+2023,Poland,Europe,Tornado,5,0.03,34,1,Rest of World
+2023,Poland,Europe,Tsunami,5,0.21000000000000002,60,2,Rest of World
+2023,Portugal,Europe,Cold Wave,6,0.92,27,1,Rest of World
+2023,Portugal,Europe,Drought,3,0.01,9,1,Rest of World
+2023,Portugal,Europe,Earthquake,4,0.1,360,2,Rest of World
+2023,Portugal,Europe,Flood,2,0.04,12,1,Rest of World
+2023,Portugal,Europe,Hailstorm,2,0,6,1,Rest of World
+2023,Portugal,Europe,Heatwave,5,0.55,18,1,Rest of World
+2023,Portugal,Europe,Landslide,1,0,4,1,Rest of World
+2023,Portugal,Europe,Tornado,1,0,7,1,Rest of World
+2023,Portugal,Europe,Tsunami,3.5,0.06,92,4,Rest of World
+2023,Portugal,Europe,Volcanic Eruption,2.5,0.02,27,2,Rest of World
+2023,Qatar,Asia,Earthquake,3,0.02,35,2,Rest of World
+2023,Qatar,Asia,Hailstorm,2,0.02,14,2,Rest of World
+2023,Qatar,Asia,Volcanic Eruption,3,0.060000000000000005,38,2,Rest of World
+2023,Romania,Europe,Earthquake,2,0,7,1,Rest of World
+2023,Romania,Europe,Flood,4,0.04,23,1,Rest of World
+2023,Romania,Europe,Heatwave,3,0.14,21,1,Rest of World
+2023,Romania,Europe,Hurricane,3,0.01,19,1,Rest of World
+2023,Romania,Europe,Landslide,3,0.04,16,1,Rest of World
+2023,Romania,Europe,Tornado,5,0.17,78,3,Rest of World
+2023,Romania,Europe,Wildfire,7,0.48,325,2,Rest of World
+2023,Russia,Europe,Cold Wave,8,1.8,438,1,Rest of World
+2023,Russia,Europe,Drought,7,4.94,349,1,Rest of World
+2023,Russia,Europe,Earthquake,1,0.01,6,1,Rest of World
+2023,Russia,Europe,Heatwave,2,1.18,9,1,Rest of World
+2023,Russia,Europe,Landslide,6,0.7,37,1,Rest of World
+2023,Russia,Europe,Tornado,4,1.2,65,3,Rest of World
+2023,Russia,Europe,Tsunami,3,2.09,31,2,Rest of World
+2023,Russia,Europe,Wildfire,5,0.43,23,1,Rest of World
+2023,Saudi Arabia,Asia,Cold Wave,6.5,8.77,221,2,Rest of World
+2023,Saudi Arabia,Asia,Flood,5,0.25,19,1,Rest of World
+2023,Saudi Arabia,Asia,Hailstorm,6,0.3,40,1,Rest of World
+2023,Saudi Arabia,Asia,Hurricane,2,0.01,12,1,Rest of World
+2023,Saudi Arabia,Asia,Landslide,4.5,0.3,50,2,Rest of World
+2023,Saudi Arabia,Asia,Wildfire,4,0.18,41,2,Rest of World
+2023,Singapore,Asia,Drought,2,0.18,21,1,Rest of World
+2023,Singapore,Asia,Flood,6,0.23,31,1,Rest of World
+2023,Singapore,Asia,Hailstorm,3.6666666666666665,0.18,58,3,Rest of World
+2023,Singapore,Asia,Heatwave,2,0.18,12,1,Rest of World
+2023,Singapore,Asia,Landslide,4.5,0.04,253,2,Rest of World
+2023,Singapore,Asia,Volcanic Eruption,1,0,6,1,Rest of World
+2023,South Africa,Africa,Earthquake,2,0.01,13,1,Rest of World
+2023,South Africa,Africa,Hailstorm,3.5,0.07,45,2,Rest of World
+2023,South Africa,Africa,Heatwave,4,0.7,27,1,Rest of World
+2023,South Africa,Africa,Landslide,3,0.04,18,1,Rest of World
+2023,South Africa,Africa,Wildfire,5,0.1,32,1,Rest of World
+2023,South Korea,Asia,Drought,4,0.39,29,1,Rest of World
+2023,South Korea,Asia,Flood,6,1.02,29,1,Rest of World
+2023,South Korea,Asia,Hailstorm,5,0.38,26,1,Rest of World
+2023,South Korea,Asia,Hurricane,4,0.79,28,1,Rest of World
+2023,South Korea,Asia,Volcanic Eruption,1,0.04,10,2,Rest of World
+2023,South Korea,Asia,Wildfire,8,2.11,105,1,Rest of World
+2023,Sweden,Europe,Cold Wave,6,0.82,32,1,Rest of World
+2023,Sweden,Europe,Earthquake,2.5,0.43000000000000005,29,2,Rest of World
+2023,Sweden,Europe,Flood,4,0.39,18,1,Rest of World
+2023,Sweden,Europe,Hailstorm,7,0.02,252,1,Rest of World
+2023,Sweden,Europe,Heatwave,6,0.58,32,1,Rest of World
+2023,Sweden,Europe,Hurricane,1,0.03,5,1,Rest of World
+2023,Sweden,Europe,Landslide,3,0.05,21,1,Rest of World
+2023,Sweden,Europe,Wildfire,1,0.01,3,1,Rest of World
+2023,Switzerland,Europe,Cold Wave,1,0.2,3,1,Rest of World
+2023,Switzerland,Europe,Drought,4,1.72,21,1,Rest of World
+2023,Switzerland,Europe,Earthquake,2,0.06,7,1,Rest of World
+2023,Switzerland,Europe,Hailstorm,7,0.44,246,1,Rest of World
+2023,Switzerland,Europe,Hurricane,1,0,4,1,Rest of World
+2023,Switzerland,Europe,Tsunami,2,0,10,1,Rest of World
+2023,Switzerland,Europe,Wildfire,3,0,10,1,Rest of World
+2023,Thailand,Asia,Cold Wave,4,11.3,43,2,Rest of World
+2023,Thailand,Asia,Flood,5,0.23,29,1,Rest of World
+2023,Thailand,Asia,Hailstorm,5.5,0.89,384,2,Rest of World
+2023,Thailand,Asia,Heatwave,4.5,2.9,45,2,Rest of World
+2023,Thailand,Asia,Tornado,5.5,0.2,71,2,Rest of World
+2023,Thailand,Asia,Volcanic Eruption,4,0.05,164,2,Rest of World
+2023,Turkey,Asia,Drought,5,2.66,21,1,Rest of World
+2023,Turkey,Asia,Earthquake,1,0.01,2,1,Rest of World
+2023,Turkey,Asia,Flood,2,0.09,15,1,Rest of World
+2023,Turkey,Asia,Hailstorm,4,0.02,39,2,Rest of World
+2023,Turkey,Asia,Heatwave,4,2.7,57,2,Rest of World
+2023,Turkey,Asia,Hurricane,3,0.72,15,1,Rest of World
+2023,Turkey,Asia,Landslide,3,0.14,18,1,Rest of World
+2023,Turkey,Asia,Volcanic Eruption,3,0.15,21,1,Rest of World
+2023,UAE,Asia,Earthquake,3,0.04,25,2,Rest of World
+2023,UAE,Asia,Flood,4,2.3299999999999996,309,2,Rest of World
+2023,UAE,Asia,Hailstorm,7,0.06,381,1,Rest of World
+2023,UAE,Asia,Heatwave,6,4.49,41,1,Rest of World
+2023,UAE,Asia,Hurricane,1,0,4,1,Rest of World
+2023,UAE,Asia,Tornado,5,0.12,80,3,Rest of World
+2023,UAE,Asia,Tsunami,2.3333333333333335,0.01,38,3,Rest of World
+2023,UAE,Asia,Volcanic Eruption,2,0,30,3,Rest of World
+2023,UAE,Asia,Wildfire,4,0.27,24,1,Rest of World
+2023,United Kingdom,Europe,Cold Wave,5,1.51,23,1,Rest of World
+2023,United Kingdom,Europe,Drought,3,13.96,16,1,Rest of World
+2023,United Kingdom,Europe,Earthquake,3,1.76,9,1,Rest of World
+2023,United Kingdom,Europe,Flood,2,0.6699999999999999,16,2,Rest of World
+2023,United Kingdom,Europe,Hailstorm,4.5,1.65,323,2,Rest of World
+2023,United Kingdom,Europe,Heatwave,5,3.94,32,1,Rest of World
+2023,United Kingdom,Europe,Hurricane,2,3.16,9,1,Rest of World
+2023,United Kingdom,Europe,Landslide,5,1.2,29,1,Rest of World
+2023,United Kingdom,Europe,Tornado,4,0.09,15,1,Rest of World
+2023,United Kingdom,Europe,Wildfire,2,0.32,9,1,Rest of World
+2023,United States,Americas,Heatwave,5,29.11,20,1,Rest of World
+2023,United States,Americas,Hurricane,2,3.3,12,1,Rest of World
+2023,United States,Americas,Tornado,5.5,2.74,247,2,Rest of World
+2023,United States,Americas,Volcanic Eruption,6,2.96,40,1,Rest of World
+2023,Vietnam,Asia,Cold Wave,4.5,0.61,54,2,Rest of World
+2023,Vietnam,Asia,Earthquake,1,0,4,1,Rest of World
+2023,Vietnam,Asia,Flood,3,0.1,59,3,Rest of World
+2023,Vietnam,Asia,Hailstorm,6,0.14,31,1,Rest of World
+2023,Vietnam,Asia,Hurricane,2,0.05,13,1,Rest of World
+2023,Vietnam,Asia,Landslide,6,0.37,322,2,Rest of World
+2023,Vietnam,Asia,Tornado,3,0.02,10,1,Rest of World
+2023,Vietnam,Asia,Tsunami,3,0.03,18,1,Rest of World
+2023,Vietnam,Asia,Volcanic Eruption,3.3333333333333335,0.11,57,3,Rest of World
+2024,Argentina,Americas,Cold Wave,4.666666666666667,1.82,92,3,Rest of World
+2024,Argentina,Americas,Drought,2,0.14,20,1,Rest of World
+2024,Argentina,Americas,Earthquake,2,0.01,9,1,Rest of World
+2024,Argentina,Americas,Flood,5,0.21,30,1,Rest of World
+2024,Argentina,Americas,Hailstorm,3.5,0.18000000000000002,44,2,Rest of World
+2024,Argentina,Americas,Heatwave,6,0.68,39,1,Rest of World
+2024,Argentina,Americas,Hurricane,3,0.12,21,1,Rest of World
+2024,Argentina,Americas,Tornado,1,0.01,3,1,Rest of World
+2024,Argentina,Americas,Tsunami,1,0,4,1,Rest of World
+2024,Argentina,Americas,Volcanic Eruption,1.5,0.01,15,2,Rest of World
+2024,Argentina,Americas,Wildfire,4,0.68,31,1,Rest of World
+2024,Australia,Oceania,Drought,5,1.74,28,1,Australia
+2024,Australia,Oceania,Earthquake,2,0.83,24,2,Australia
+2024,Australia,Oceania,Landslide,3,0.14,11,1,Australia
+2024,Austria,Europe,Cold Wave,3.5,1.83,44,2,Rest of World
+2024,Austria,Europe,Flood,5,0.52,17,1,Rest of World
+2024,Austria,Europe,Landslide,5,0.05,36,1,Rest of World
+2024,Austria,Europe,Tsunami,1.5,0.01,16,2,Rest of World
+2024,Austria,Europe,Wildfire,5,0.46,49,2,Rest of World
+2024,Bangladesh,Asia,Cold Wave,5,12.99,28,1,Rest of World
+2024,Bangladesh,Asia,Drought,3,0.24,17,1,Rest of World
+2024,Bangladesh,Asia,Earthquake,3,0.02,6,1,Rest of World
+2024,Bangladesh,Asia,Hailstorm,4,0.21000000000000002,42,2,Rest of World
+2024,Bangladesh,Asia,Heatwave,8,11.14,227,1,Rest of World
+2024,Bangladesh,Asia,Landslide,5,0.12,22,1,Rest of World
+2024,Bangladesh,Asia,Tornado,5,0.33999999999999997,41,2,Rest of World
+2024,Bangladesh,Asia,Volcanic Eruption,2,0.01,6,1,Rest of World
+2024,Bangladesh,Asia,Wildfire,5.333333333333333,2.06,98,3,Rest of World
+2024,Belgium,Europe,Cold Wave,6,2.45,32,1,Rest of World
+2024,Belgium,Europe,Earthquake,1,0.01,13,2,Rest of World
+2024,Belgium,Europe,Flood,6,0.98,32,1,Rest of World
+2024,Belgium,Europe,Hailstorm,1,0.01,5,1,Rest of World
+2024,Belgium,Europe,Heatwave,6,1.1,26,1,Rest of World
+2024,Belgium,Europe,Hurricane,1.5,0.07,16,2,Rest of World
+2024,Belgium,Europe,Tsunami,3,0.02,19,1,Rest of World
+2024,Belgium,Europe,Volcanic Eruption,2,0.060000000000000005,28,3,Rest of World
+2024,Brazil,Americas,Cold Wave,3,0.33,12,1,Rest of World
+2024,Brazil,Americas,Drought,5,5.07,15,1,Rest of World
+2024,Brazil,Americas,Hailstorm,4.5,4.98,46,2,Rest of World
+2024,Brazil,Americas,Hurricane,4.5,2.55,61,2,Rest of World
+2024,Brazil,Americas,Landslide,7,0.3,319,1,Rest of World
+2024,Brazil,Americas,Tornado,5,0.56,23,1,Rest of World
+2024,Brazil,Americas,Wildfire,4.5,0.68,56,2,Rest of World
+2024,Canada,Americas,Cold Wave,3.5,23.55,33,2,Rest of World
+2024,Canada,Americas,Flood,1.5,0.43,15,2,Rest of World
+2024,Canada,Americas,Hailstorm,2,0.03,6,1,Rest of World
+2024,Canada,Americas,Tornado,5,0,29,1,Rest of World
+2024,Canada,Americas,Tsunami,1,0.01,5,1,Rest of World
+2024,Canada,Americas,Volcanic Eruption,3,0.1,34,2,Rest of World
+2024,Canada,Americas,Wildfire,3,0.38,46,2,Rest of World
+2024,Chile,Americas,Cold Wave,3,0.04,13,1,Rest of World
+2024,Chile,Americas,Earthquake,3,0.11,43,3,Rest of World
+2024,Chile,Americas,Heatwave,6,2.21,43,1,Rest of World
+2024,Chile,Americas,Hurricane,1.6666666666666667,0.09999999999999999,33,3,Rest of World
+2024,Chile,Americas,Tornado,7,0.15,313,1,Rest of World
+2024,Chile,Americas,Volcanic Eruption,3.5,0.06,44,2,Rest of World
+2024,Chile,Americas,Wildfire,3,0.07,13,1,Rest of World
+2024,China,Asia,Drought,4,21.03,31,1,Rest of World
+2024,China,Asia,Wildfire,7,6.69,504,1,Rest of World
+2024,Colombia,Americas,Drought,4,0.57,25,1,Rest of World
+2024,Colombia,Americas,Earthquake,2,0,18,1,Rest of World
+2024,Colombia,Americas,Flood,2,0.05,11,1,Rest of World
+2024,Colombia,Americas,Heatwave,2,0.21,13,1,Rest of World
+2024,Colombia,Americas,Hurricane,3,0.03,26,1,Rest of World
+2024,Colombia,Americas,Volcanic Eruption,3,0,10,1,Rest of World
+2024,Czech Republic,Europe,Cold Wave,5,0.34,156,2,Rest of World
+2024,Czech Republic,Europe,Earthquake,2,0.02,61,5,Rest of World
+2024,Czech Republic,Europe,Hailstorm,5,0.08,26,1,Rest of World
+2024,Czech Republic,Europe,Landslide,4,0.14,25,1,Rest of World
+2024,Czech Republic,Europe,Tsunami,3,0.03,19,1,Rest of World
+2024,Czech Republic,Europe,Volcanic Eruption,3.6666666666666665,0.22,66,3,Rest of World
+2024,Czech Republic,Europe,Wildfire,8,0.55,151,1,Rest of World
+2024,Denmark,Europe,Cold Wave,7,1.38,86,1,Rest of World
+2024,Denmark,Europe,Earthquake,1,0,11,2,Rest of World
+2024,Denmark,Europe,Flood,5,0.07,24,1,Rest of World
+2024,Denmark,Europe,Heatwave,3.5,17.740000000000002,63,4,Rest of World
+2024,Denmark,Europe,Hurricane,5,0.14,28,1,Rest of World
+2024,Denmark,Europe,Landslide,4.5,0.09000000000000001,48,2,Rest of World
+2024,Denmark,Europe,Tsunami,3,0.03,13,1,Rest of World
+2024,Denmark,Europe,Volcanic Eruption,5.5,0.23,111,2,Rest of World
+2024,Denmark,Europe,Wildfire,5,0.03,32,1,Rest of World
+2024,Egypt,Africa,Drought,4,1.06,21,1,Rest of World
+2024,Egypt,Africa,Earthquake,2,0.01,15,1,Rest of World
+2024,Egypt,Africa,Hailstorm,7,0.06,362,1,Rest of World
+2024,Egypt,Africa,Heatwave,4,5.54,15,1,Rest of World
+2024,Egypt,Africa,Landslide,4.75,0.15,250,4,Rest of World
+2024,Egypt,Africa,Tornado,4,0.02,25,1,Rest of World
+2024,Egypt,Africa,Tsunami,1,0,7,1,Rest of World
+2024,Egypt,Africa,Volcanic Eruption,3,0.19,15,1,Rest of World
+2024,Finland,Europe,Cold Wave,5.5,5.47,484,2,Rest of World
+2024,Finland,Europe,Hailstorm,4,0.06,56,2,Rest of World
+2024,Finland,Europe,Heatwave,6,2.95,34,1,Rest of World
+2024,Finland,Europe,Hurricane,4,1.1,47,2,Rest of World
+2024,Finland,Europe,Tornado,5,0.01,33,1,Rest of World
+2024,France,Europe,Drought,6,15.07,78,2,Rest of World
+2024,France,Europe,Earthquake,1,0.03,6,1,Rest of World
+2024,France,Europe,Hailstorm,5,2.4000000000000004,50,2,Rest of World
+2024,France,Europe,Heatwave,4,15.16,15,1,Rest of World
+2024,France,Europe,Landslide,5.5,0.9299999999999999,551,2,Rest of World
+2024,France,Europe,Tornado,4,0.7,24,1,Rest of World
+2024,France,Europe,Tsunami,4.5,1.8800000000000001,50,2,Rest of World
+2024,France,Europe,Volcanic Eruption,4,0.62,20,1,Rest of World
+2024,Germany,Europe,Drought,2,1.09,10,1,Rest of World
+2024,Germany,Europe,Earthquake,4,0.37,23,1,Rest of World
+2024,Germany,Europe,Flood,2.3333333333333335,0.8500000000000001,35,3,Rest of World
+2024,Germany,Europe,Hailstorm,6,0.05,36,1,Rest of World
+2024,Germany,Europe,Heatwave,5,4.14,33,1,Rest of World
+2024,Germany,Europe,Hurricane,1,0.14,6,1,Rest of World
+2024,Germany,Europe,Landslide,3,0.3,16,1,Rest of World
+2024,Germany,Europe,Volcanic Eruption,3.5,0.22,50,2,Rest of World
+2024,Greece,Europe,Drought,8,0.08,153,1,Rest of World
+2024,Greece,Europe,Flood,7,0.75,126,1,Rest of World
+2024,Greece,Europe,Hailstorm,7,0.05,374,1,Rest of World
+2024,Greece,Europe,Heatwave,4,0.22,16,1,Rest of World
+2024,Greece,Europe,Tornado,5,0.02,28,1,Rest of World
+2024,Greece,Europe,Wildfire,2,0.05,10,1,Rest of World
+2024,Hungary,Europe,Cold Wave,5,0.31,41,2,Rest of World
+2024,Hungary,Europe,Earthquake,2,0,12,2,Rest of World
+2024,Hungary,Europe,Flood,3,0,33,2,Rest of World
+2024,Hungary,Europe,Hurricane,1,0.01,9,1,Rest of World
+2024,Hungary,Europe,Landslide,5,0.18,43,2,Rest of World
+2024,Hungary,Europe,Tornado,3,0,19,1,Rest of World
+2024,Hungary,Europe,Wildfire,5,0.1,21,1,Rest of World
+2024,India,Asia,Drought,4.5,20.81,128,2,Rest of World
+2024,India,Asia,Flood,5.5,8.01,59,2,Rest of World
+2024,India,Asia,Heatwave,4,15,26,1,Rest of World
+2024,India,Asia,Hurricane,3,1.67,41,2,Rest of World
+2024,India,Asia,Landslide,6,1.29,33,1,Rest of World
+2024,India,Asia,Tornado,4.5,0.08,38,2,Rest of World
+2024,India,Asia,Tsunami,4,0.51,24,1,Rest of World
+2024,India,Asia,Volcanic Eruption,1,0.05,7,1,Rest of World
+2024,India,Asia,Wildfire,5,0.87,16,1,Rest of World
+2024,Indonesia,Asia,Cold Wave,4,2.08,26,1,Rest of World
+2024,Indonesia,Asia,Drought,7,12.5,172,1,Rest of World
+2024,Indonesia,Asia,Earthquake,4,0.04,27,1,Rest of World
+2024,Indonesia,Asia,Flood,7,0.84,501,2,Rest of World
+2024,Indonesia,Asia,Hailstorm,4,0.33999999999999997,41,2,Rest of World
+2024,Indonesia,Asia,Hurricane,1,0.08,8,2,Rest of World
+2024,Indonesia,Asia,Landslide,4,0.18,21,1,Rest of World
+2024,Indonesia,Asia,Tornado,9,0.56,502,1,Rest of World
+2024,Iraq,Asia,Cold Wave,4.5,24.92,334,2,Rest of World
+2024,Iraq,Asia,Drought,4,0.91,20,1,Rest of World
+2024,Iraq,Asia,Earthquake,3,0.01,15,1,Rest of World
+2024,Iraq,Asia,Flood,5.5,0.29000000000000004,202,2,Rest of World
+2024,Iraq,Asia,Hailstorm,2,0.01,12,1,Rest of World
+2024,Iraq,Asia,Hurricane,4,0.04,34,1,Rest of World
+2024,Iraq,Asia,Landslide,6,0.38,30,1,Rest of World
+2024,Iraq,Asia,Tornado,4,0.01,22,1,Rest of World
+2024,Iraq,Asia,Wildfire,4,0.02,27,1,Rest of World
+2024,Ireland,Europe,Cold Wave,7,6.41,301,1,Rest of World
+2024,Ireland,Europe,Drought,4,0.98,22,1,Rest of World
+2024,Ireland,Europe,Earthquake,1,0,4,1,Rest of World
+2024,Ireland,Europe,Hailstorm,2,0.06,15,1,Rest of World
+2024,Ireland,Europe,Heatwave,4,1.38,19,1,Rest of World
+2024,Ireland,Europe,Hurricane,4,0.3,28,1,Rest of World
+2024,Ireland,Europe,Landslide,4,0.09999999999999999,47,2,Rest of World
+2024,Ireland,Europe,Tornado,5,0.6,272,4,Rest of World
+2024,Ireland,Europe,Tsunami,1,0.01,3,1,Rest of World
+2024,Ireland,Europe,Volcanic Eruption,2,0.02,11,1,Rest of World
+2024,Israel,Asia,Drought,3,1.19,14,1,Rest of World
+2024,Israel,Asia,Flood,1,0,6,1,Rest of World
+2024,Israel,Asia,Hailstorm,5,0.5,23,1,Rest of World
+2024,Israel,Asia,Heatwave,7,4.7,166,1,Rest of World
+2024,Israel,Asia,Hurricane,4,0.07,28,1,Rest of World
+2024,Israel,Asia,Landslide,3,0,18,1,Rest of World
+2024,Israel,Asia,Tsunami,2,0.01,13,1,Rest of World
+2024,Israel,Asia,Volcanic Eruption,2,0.03,17,1,Rest of World
+2024,Italy,Europe,Earthquake,2,0.39,25,2,Rest of World
+2024,Italy,Europe,Heatwave,4,42.1,36,2,Rest of World
+2024,Italy,Europe,Landslide,3,0.04,24,1,Rest of World
+2024,Italy,Europe,Volcanic Eruption,1,0.01,6,1,Rest of World
+2024,Italy,Europe,Wildfire,5,0.83,26,1,Rest of World
+2024,Japan,Asia,Cold Wave,6,31.7,145,2,Rest of World
+2024,Japan,Asia,Earthquake,2,5.609999999999999,36,2,Rest of World
+2024,Japan,Asia,Flood,3.6666666666666665,4.22,62,3,Rest of World
+2024,Japan,Asia,Hailstorm,1,0.01,5,1,Rest of World
+2024,Japan,Asia,Landslide,5,0.29,19,1,Rest of World
+2024,Japan,Asia,Tornado,4,8.69,84,4,Rest of World
+2024,Japan,Asia,Tsunami,3,0.87,35,2,Rest of World
+2024,Japan,Asia,Volcanic Eruption,1,0.1,5,1,Rest of World
+2024,Japan,Asia,Wildfire,6,4.21,28,1,Rest of World
+2024,Kazakhstan,Asia,Cold Wave,5,1.79,53,2,Rest of World
+2024,Kazakhstan,Asia,Flood,3,0.39,21,1,Rest of World
+2024,Kazakhstan,Asia,Hailstorm,4,0.02,41,2,Rest of World
+2024,Kazakhstan,Asia,Hurricane,2.5,0.12,36,2,Rest of World
+2024,Kazakhstan,Asia,Tsunami,2.25,0.04,60,4,Rest of World
+2024,Kazakhstan,Asia,Wildfire,5,0.14,24,1,Rest of World
+2024,Malaysia,Asia,Drought,4,1.3,39,1,Rest of World
+2024,Malaysia,Asia,Flood,3,0.18,19,1,Rest of World
+2024,Malaysia,Asia,Hailstorm,2,0,14,1,Rest of World
+2024,Malaysia,Asia,Hurricane,1.5,0.27,27,4,Rest of World
+2024,Malaysia,Asia,Landslide,2.6666666666666665,0.06999999999999999,42,3,Rest of World
+2024,Malaysia,Asia,Tornado,7,0.35,127,1,Rest of World
+2024,Malaysia,Asia,Tsunami,3,0.02,16,1,Rest of World
+2024,Mexico,Americas,Drought,6,0.43,30,1,Rest of World
+2024,Mexico,Americas,Hailstorm,5.5,1.47,46,2,Rest of World
+2024,Mexico,Americas,Hurricane,1,0.04,7,1,Rest of World
+2024,Mexico,Americas,Landslide,3,0.1,21,1,Rest of World
+2024,Mexico,Americas,Tornado,4.5,0.7799999999999999,46,2,Rest of World
+2024,Mexico,Americas,Tsunami,1,0.04,12,1,Rest of World
+2024,Netherlands,Europe,Cold Wave,4,4.59,31,1,Rest of World
+2024,Netherlands,Europe,Earthquake,5,0.15,25,1,Rest of World
+2024,Netherlands,Europe,Hurricane,3,0.45,16,1,Rest of World
+2024,Netherlands,Europe,Landslide,5,0.07,25,1,Rest of World
+2024,Netherlands,Europe,Tsunami,5,0.09,19,1,Rest of World
+2024,New Zealand,Oceania,Cold Wave,6,1.29,31,1,Rest of World
+2024,New Zealand,Oceania,Drought,2.5,0.27,37,2,Rest of World
+2024,New Zealand,Oceania,Earthquake,1,0.01,5,1,Rest of World
+2024,New Zealand,Oceania,Hailstorm,5.5,0.07,126,2,Rest of World
+2024,New Zealand,Oceania,Heatwave,6,0.53,36,1,Rest of World
+2024,New Zealand,Oceania,Hurricane,1,0.01,5,1,Rest of World
+2024,New Zealand,Oceania,Tornado,7,0.12,323,1,Rest of World
+2024,New Zealand,Oceania,Wildfire,5,0.1,49,2,Rest of World
+2024,Nigeria,Africa,Cold Wave,6,1.35,34,1,Rest of World
+2024,Nigeria,Africa,Earthquake,2,0.05,6,1,Rest of World
+2024,Nigeria,Africa,Flood,2,0.04,11,1,Rest of World
+2024,Nigeria,Africa,Heatwave,3,0.81,12,1,Rest of World
+2024,Nigeria,Africa,Tornado,5.666666666666667,0.6699999999999999,375,3,Rest of World
+2024,Nigeria,Africa,Volcanic Eruption,3.3333333333333335,0.11,43,3,Rest of World
+2024,Nigeria,Africa,Wildfire,5,2.34,100,3,Rest of World
+2024,Pakistan,Asia,Drought,3.6666666666666665,18.09,179,3,Rest of World
+2024,Pakistan,Asia,Flood,6,0.21,25,1,Rest of World
+2024,Pakistan,Asia,Hailstorm,3.5,0.06,32,2,Rest of World
+2024,Pakistan,Asia,Landslide,8,0.03,458,1,Rest of World
+2024,Pakistan,Asia,Tornado,4,0.56,27,1,Rest of World
+2024,Pakistan,Asia,Tsunami,5,0.17,26,1,Rest of World
+2024,Pakistan,Asia,Volcanic Eruption,1,0,1,1,Rest of World
+2024,Pakistan,Asia,Wildfire,4,0.17,38,2,Rest of World
+2024,Peru,Americas,Drought,6,1.1,40,1,Rest of World
+2024,Peru,Americas,Flood,2,0.32,15,1,Rest of World
+2024,Peru,Americas,Hurricane,2,0.02,20,2,Rest of World
+2024,Peru,Americas,Tsunami,2,0,13,1,Rest of World
+2024,Peru,Americas,Volcanic Eruption,2.5,0.07,37,2,Rest of World
+2024,Peru,Americas,Wildfire,3,0.01,14,1,Rest of World
+2024,Philippines,Asia,Cold Wave,5,1.71,134,2,Rest of World
+2024,Philippines,Asia,Drought,4.5,0.25,50,2,Rest of World
+2024,Philippines,Asia,Flood,7,0.37,95,2,Rest of World
+2024,Philippines,Asia,Hailstorm,3,0.02,27,1,Rest of World
+2024,Philippines,Asia,Heatwave,5,0.47,20,1,Rest of World
+2024,Philippines,Asia,Landslide,4,0.4,137,3,Rest of World
+2024,Philippines,Asia,Tsunami,4,0.06,23,1,Rest of World
+2024,Philippines,Asia,Volcanic Eruption,3,0.38,21,1,Rest of World
+2024,Poland,Europe,Drought,4,2.03,27,1,Rest of World
+2024,Poland,Europe,Earthquake,5,0.05,20,1,Rest of World
+2024,Poland,Europe,Flood,2,0.03,8,1,Rest of World
+2024,Poland,Europe,Hailstorm,3,0.06,15,1,Rest of World
+2024,Poland,Europe,Heatwave,6,1.52,36,1,Rest of World
+2024,Poland,Europe,Hurricane,2,0.06,13,1,Rest of World
+2024,Poland,Europe,Volcanic Eruption,2,0.04,20,2,Rest of World
+2024,Poland,Europe,Wildfire,6,1.52,245,2,Rest of World
+2024,Portugal,Europe,Cold Wave,2,0.01,13,1,Rest of World
+2024,Portugal,Europe,Drought,4,1.12,21,1,Rest of World
+2024,Portugal,Europe,Earthquake,2,0.01,8,1,Rest of World
+2024,Portugal,Europe,Hailstorm,3,0.01,17,1,Rest of World
+2024,Portugal,Europe,Hurricane,4,0.67,29,1,Rest of World
+2024,Portugal,Europe,Landslide,5.333333333333333,0.21000000000000002,263,3,Rest of World
+2024,Portugal,Europe,Tsunami,1,0,4,1,Rest of World
+2024,Portugal,Europe,Volcanic Eruption,1.25,0.02,33,4,Rest of World
+2024,Portugal,Europe,Wildfire,4,0.28,46,2,Rest of World
+2024,Qatar,Asia,Cold Wave,6,0.2,32,1,Rest of World
+2024,Qatar,Asia,Drought,6,0.04,30,1,Rest of World
+2024,Qatar,Asia,Hurricane,1,0.01,4,1,Rest of World
+2024,Qatar,Asia,Tornado,3,0.05,13,1,Rest of World
+2024,Qatar,Asia,Tsunami,3,0,11,1,Rest of World
+2024,Qatar,Asia,Wildfire,6,0,32,1,Rest of World
+2024,Romania,Europe,Cold Wave,4,0.84,24,1,Rest of World
+2024,Romania,Europe,Drought,6,0.27,266,2,Rest of World
+2024,Romania,Europe,Hailstorm,4.5,0.41000000000000003,214,2,Rest of World
+2024,Romania,Europe,Hurricane,2.6666666666666665,0.34,42,3,Rest of World
+2024,Romania,Europe,Wildfire,6,0.01,32,1,Rest of World
+2024,Russia,Europe,Cold Wave,2,0.01,15,1,Rest of World
+2024,Russia,Europe,Drought,5.5,14.33,53,2,Rest of World
+2024,Russia,Europe,Hailstorm,4,0.33,21,1,Rest of World
+2024,Russia,Europe,Heatwave,4,7.13,21,1,Rest of World
+2024,Russia,Europe,Hurricane,2,0.04,11,1,Rest of World
+2024,Russia,Europe,Landslide,3,0.06,28,2,Rest of World
+2024,Russia,Europe,Tornado,2,0.15,13,1,Rest of World
+2024,Russia,Europe,Tsunami,4.5,2.1399999999999997,54,2,Rest of World
+2024,Russia,Europe,Volcanic Eruption,1,0,4,1,Rest of World
+2024,Saudi Arabia,Asia,Drought,4,0.82,26,1,Rest of World
+2024,Saudi Arabia,Asia,Earthquake,3,0.01,27,1,Rest of World
+2024,Saudi Arabia,Asia,Hailstorm,3,0.01,16,1,Rest of World
+2024,Saudi Arabia,Asia,Landslide,3,0.13,25,1,Rest of World
+2024,Saudi Arabia,Asia,Tsunami,3,0.27,56,3,Rest of World
+2024,Saudi Arabia,Asia,Volcanic Eruption,6,0.42,29,1,Rest of World
+2024,Saudi Arabia,Asia,Wildfire,4,0.17,49,2,Rest of World
+2024,Singapore,Asia,Drought,7,0.33,377,1,Rest of World
+2024,Singapore,Asia,Flood,5,0.51,29,1,Rest of World
+2024,Singapore,Asia,Hailstorm,4,0,33,1,Rest of World
+2024,Singapore,Asia,Heatwave,3.6666666666666665,4.3,57,3,Rest of World
+2024,Singapore,Asia,Landslide,4.333333333333333,0.18,67,3,Rest of World
+2024,Singapore,Asia,Volcanic Eruption,2,0.060000000000000005,16,2,Rest of World
+2024,South Africa,Africa,Drought,5,8.01,52,2,Rest of World
+2024,South Africa,Africa,Earthquake,2.6666666666666665,0.01,55,3,Rest of World
+2024,South Africa,Africa,Heatwave,2,0.15,9,1,Rest of World
+2024,South Africa,Africa,Hurricane,2,0,12,1,Rest of World
+2024,South Africa,Africa,Landslide,6,0.17,32,1,Rest of World
+2024,South Africa,Africa,Tornado,4.5,1.1,355,2,Rest of World
+2024,South Africa,Africa,Wildfire,6,0.06,27,1,Rest of World
+2024,South Korea,Asia,Cold Wave,4,3.4699999999999998,41,2,Rest of World
+2024,South Korea,Asia,Drought,6,2.14,46,1,Rest of World
+2024,South Korea,Asia,Earthquake,2.3333333333333335,0.23,39,3,Rest of World
+2024,South Korea,Asia,Flood,7,0.58,144,1,Rest of World
+2024,South Korea,Asia,Hailstorm,6.5,0.53,170,2,Rest of World
+2024,South Korea,Asia,Heatwave,2,3.41,12,1,Rest of World
+2024,South Korea,Asia,Hurricane,1,0.07,6,1,Rest of World
+2024,South Korea,Asia,Landslide,4.5,0.30000000000000004,54,2,Rest of World
+2024,South Korea,Asia,Tornado,8,7.93,306,1,Rest of World
+2024,South Korea,Asia,Tsunami,1.5,0.18,24,2,Rest of World
+2024,South Korea,Asia,Wildfire,4,4.26,21,1,Rest of World
+2024,Sweden,Europe,Drought,4,3.18,20,1,Rest of World
+2024,Sweden,Europe,Earthquake,1.5,0.03,14,2,Rest of World
+2024,Sweden,Europe,Flood,5,1.11,22,1,Rest of World
+2024,Sweden,Europe,Hailstorm,4.5,0.36,56,2,Rest of World
+2024,Sweden,Europe,Hurricane,2,0,7,1,Rest of World
+2024,Sweden,Europe,Tornado,5,1.51,306,3,Rest of World
+2024,Sweden,Europe,Tsunami,1,0,5,1,Rest of World
+2024,Sweden,Europe,Wildfire,2,0,18,1,Rest of World
+2024,Switzerland,Europe,Drought,5,16.95,39,2,Rest of World
+2024,Switzerland,Europe,Earthquake,3,0.04,17,1,Rest of World
+2024,Switzerland,Europe,Heatwave,6,0.83,37,1,Rest of World
+2024,Switzerland,Europe,Hurricane,2,0.12,28,2,Rest of World
+2024,Switzerland,Europe,Landslide,3,0.06,18,1,Rest of World
+2024,Switzerland,Europe,Tornado,5,0.29,25,1,Rest of World
+2024,Switzerland,Europe,Tsunami,2.5,0.04,32,2,Rest of World
+2024,Switzerland,Europe,Wildfire,5,0.19,27,1,Rest of World
+2024,Thailand,Asia,Earthquake,1,0,3,1,Rest of World
+2024,Thailand,Asia,Flood,1.5,0.16,15,2,Rest of World
+2024,Thailand,Asia,Hailstorm,8,0.39,333,1,Rest of World
+2024,Thailand,Asia,Landslide,3,0.02,10,1,Rest of World
+2024,Thailand,Asia,Tornado,3,0.19,19,1,Rest of World
+2024,Thailand,Asia,Volcanic Eruption,1,0,11,2,Rest of World
+2024,Thailand,Asia,Wildfire,3,0.01,36,2,Rest of World
+2024,Turkey,Asia,Cold Wave,4,3.79,19,1,Rest of World
+2024,Turkey,Asia,Earthquake,2,0.07,18,2,Rest of World
+2024,Turkey,Asia,Flood,4.2,3.8400000000000003,128,5,Rest of World
+2024,Turkey,Asia,Hailstorm,6,0.17,236,2,Rest of World
+2024,Turkey,Asia,Hurricane,3,0.77,35,2,Rest of World
+2024,Turkey,Asia,Landslide,4.5,0.6,373,2,Rest of World
+2024,Turkey,Asia,Tornado,4,0.37,235,2,Rest of World
+2024,UAE,Asia,Cold Wave,7,2.54,311,2,Rest of World
+2024,UAE,Asia,Earthquake,3.5,0.2,34,2,Rest of World
+2024,UAE,Asia,Heatwave,6,3.36,27,1,Rest of World
+2024,UAE,Asia,Landslide,8,0.51,194,1,Rest of World
+2024,UAE,Asia,Wildfire,8,0.54,183,1,Rest of World
+2024,United Kingdom,Europe,Cold Wave,2,1.1,10,1,Rest of World
+2024,United Kingdom,Europe,Earthquake,4,1.32,16,1,Rest of World
+2024,United Kingdom,Europe,Hailstorm,2,0.04,13,1,Rest of World
+2024,United Kingdom,Europe,Heatwave,3,11.680000000000001,32,2,Rest of World
+2024,United Kingdom,Europe,Landslide,5,0.64,28,1,Rest of World
+2024,United Kingdom,Europe,Tornado,7,1.48,630,2,Rest of World
+2024,United Kingdom,Europe,Tsunami,5,3.56,24,1,Rest of World
+2024,United Kingdom,Europe,Wildfire,5.5,3.9699999999999998,68,2,Rest of World
+2024,United States,Americas,Cold Wave,6,11.91,34,1,Rest of World
+2024,United States,Americas,Landslide,4.5,15.41,52,2,Rest of World
+2024,United States,Americas,Tornado,5,1.52,26,1,Rest of World
+2024,Vietnam,Asia,Cold Wave,4.5,2.61,47,2,Rest of World
+2024,Vietnam,Asia,Drought,2,0.15,11,1,Rest of World
+2024,Vietnam,Asia,Earthquake,6,0.01,37,1,Rest of World
+2024,Vietnam,Asia,Flood,2,0.03,9,1,Rest of World
+2024,Vietnam,Asia,Hailstorm,4,0.11,23,1,Rest of World
+2024,Vietnam,Asia,Landslide,4.5,0.03,50,2,Rest of World
+2024,Vietnam,Asia,Volcanic Eruption,1,0,4,1,Rest of World
+2025,Argentina,Americas,Cold Wave,7,2.01,324,1,Rest of World
+2025,Argentina,Americas,Flood,6,0.42,25,1,Rest of World
+2025,Argentina,Americas,Hailstorm,3,0.01,17,1,Rest of World
+2025,Argentina,Americas,Heatwave,3,0.36,13,1,Rest of World
+2025,Argentina,Americas,Hurricane,1,0,8,1,Rest of World
+2025,Argentina,Americas,Tsunami,4,0.14,25,1,Rest of World
+2025,Australia,Oceania,Cold Wave,5,10.64,30,1,Australia
+2025,Australia,Oceania,Drought,5,4.2,30,1,Australia
+2025,Australia,Oceania,Tsunami,1,0.02,14,3,Australia
+2025,Australia,Oceania,Wildfire,6,0.72,408,2,Australia
+2025,Austria,Europe,Cold Wave,4,17.06,36,2,Rest of World
+2025,Austria,Europe,Drought,4,1.08,17,1,Rest of World
+2025,Austria,Europe,Flood,1,0.02,6,1,Rest of World
+2025,Austria,Europe,Hailstorm,6,0.09,27,1,Rest of World
+2025,Austria,Europe,Tornado,5,0.04,21,1,Rest of World
+2025,Austria,Europe,Volcanic Eruption,3,0.4,19,1,Rest of World
+2025,Bangladesh,Asia,Flood,3,0.02,10,1,Rest of World
+2025,Bangladesh,Asia,Landslide,3,0.01,16,1,Rest of World
+2025,Bangladesh,Asia,Volcanic Eruption,4,0.05,53,2,Rest of World
+2025,Bangladesh,Asia,Wildfire,5,0.51,226,2,Rest of World
+2025,Belgium,Europe,Cold Wave,5.5,1.04,47,2,Rest of World
+2025,Belgium,Europe,Earthquake,2,0.02,29,3,Rest of World
+2025,Belgium,Europe,Hailstorm,3,0,21,1,Rest of World
+2025,Belgium,Europe,Hurricane,6,0.55,32,1,Rest of World
+2025,Brazil,Americas,Drought,4,7.2,19,1,Rest of World
+2025,Brazil,Americas,Earthquake,2,0.09999999999999999,29,2,Rest of World
+2025,Brazil,Americas,Hurricane,2,0.36,9,1,Rest of World
+2025,Brazil,Americas,Landslide,3.5,1.5999999999999999,38,2,Rest of World
+2025,Brazil,Americas,Tornado,7,1.6,148,1,Rest of World
+2025,Canada,Americas,Drought,4,2.66,10,1,Rest of World
+2025,Canada,Americas,Landslide,7,0.51,294,1,Rest of World
+2025,Canada,Americas,Tornado,3,0.01,11,1,Rest of World
+2025,Canada,Americas,Tsunami,1,0,3,1,Rest of World
+2025,Canada,Americas,Wildfire,4,0.03,23,1,Rest of World
+2025,Chile,Americas,Cold Wave,2,0.15,14,1,Rest of World
+2025,Chile,Americas,Drought,1,0.07,2,1,Rest of World
+2025,Chile,Americas,Flood,7,0.02,410,1,Rest of World
+2025,Chile,Americas,Hailstorm,6,0.17,32,1,Rest of World
+2025,Chile,Americas,Heatwave,7,6.68,143,1,Rest of World
+2025,Chile,Americas,Hurricane,3,0.03,12,1,Rest of World
+2025,Chile,Americas,Tornado,2,0.01,12,1,Rest of World
+2025,China,Asia,Flood,2,0.84,10,1,Rest of World
+2025,China,Asia,Hailstorm,7,5.4,353,1,Rest of World
+2025,China,Asia,Tornado,2,1.79,15,1,Rest of World
+2025,Colombia,Americas,Earthquake,1,0,8,1,Rest of World
+2025,Colombia,Americas,Hailstorm,4,0.04,26,1,Rest of World
+2025,Colombia,Americas,Landslide,4,0.01,20,1,Rest of World
+2025,Colombia,Americas,Tornado,2,0.01,14,1,Rest of World
+2025,Colombia,Americas,Tsunami,2.5,0,27,2,Rest of World
+2025,Czech Republic,Europe,Cold Wave,7,6.6,145,1,Rest of World
+2025,Czech Republic,Europe,Drought,5.5,2.91,65,2,Rest of World
+2025,Czech Republic,Europe,Hailstorm,1,0,5,1,Rest of World
+2025,Czech Republic,Europe,Landslide,3,0.61,31,2,Rest of World
+2025,Czech Republic,Europe,Tornado,3,0,15,1,Rest of World
+2025,Czech Republic,Europe,Tsunami,3,0.03,13,1,Rest of World
+2025,Czech Republic,Europe,Volcanic Eruption,3,0.02,11,1,Rest of World
+2025,Denmark,Europe,Cold Wave,7,3.09,59,1,Rest of World
+2025,Denmark,Europe,Earthquake,1,0,7,1,Rest of World
+2025,Denmark,Europe,Flood,7,0,101,1,Rest of World
+2025,Denmark,Europe,Hailstorm,3,0.06,16,1,Rest of World
+2025,Denmark,Europe,Heatwave,7,3.23,224,1,Rest of World
+2025,Denmark,Europe,Hurricane,6,0.33,48,1,Rest of World
+2025,Denmark,Europe,Landslide,4,0.04,282,2,Rest of World
+2025,Denmark,Europe,Tornado,7,0.12,200,2,Rest of World
+2025,Denmark,Europe,Tsunami,1,0.01,4,1,Rest of World
+2025,Denmark,Europe,Volcanic Eruption,1,0.01,6,1,Rest of World
+2025,Denmark,Europe,Wildfire,4,0.05,45,2,Rest of World
+2025,Egypt,Africa,Cold Wave,5,0.17,34,1,Rest of World
+2025,Egypt,Africa,Drought,5,0.07,29,1,Rest of World
+2025,Egypt,Africa,Earthquake,6,0.05,29,1,Rest of World
+2025,Egypt,Africa,Flood,5.5,0.6599999999999999,49,2,Rest of World
+2025,Egypt,Africa,Heatwave,2,0.04,14,1,Rest of World
+2025,Egypt,Africa,Landslide,3,0.02,16,1,Rest of World
+2025,Egypt,Africa,Tsunami,1,0.01,3,1,Rest of World
+2025,Finland,Europe,Cold Wave,5,0.89,23,1,Rest of World
+2025,Finland,Europe,Hailstorm,7,0.44,666,1,Rest of World
+2025,Finland,Europe,Volcanic Eruption,1,0,5,1,Rest of World
+2025,Finland,Europe,Wildfire,7,0.11,154,1,Rest of World
+2025,France,Europe,Cold Wave,7,17.65,199,1,Rest of World
+2025,France,Europe,Earthquake,1.5,0.25,15,2,Rest of World
+2025,France,Europe,Hailstorm,1,0.01,8,1,Rest of World
+2025,France,Europe,Landslide,8.5,15.37,1020,2,Rest of World
+2025,France,Europe,Tornado,5,2.68,28,1,Rest of World
+2025,France,Europe,Tsunami,1,0.01,7,1,Rest of World
+2025,France,Europe,Volcanic Eruption,1,0.02,10,1,Rest of World
+2025,France,Europe,Wildfire,1,0,8,1,Rest of World
+2025,Germany,Europe,Earthquake,3,0.67,9,1,Rest of World
+2025,Germany,Europe,Hailstorm,6,4.45,37,1,Rest of World
+2025,Germany,Europe,Hurricane,1,0.04,6,1,Rest of World
+2025,Germany,Europe,Tornado,5,0.03,26,1,Rest of World
+2025,Germany,Europe,Volcanic Eruption,3,0.26,14,1,Rest of World
+2025,Greece,Europe,Cold Wave,3,0.43,25,1,Rest of World
+2025,Greece,Europe,Earthquake,3.6666666666666665,0.14,60,3,Rest of World
+2025,Greece,Europe,Flood,7,0.08,218,1,Rest of World
+2025,Greece,Europe,Hailstorm,4,0.01,17,1,Rest of World
+2025,Greece,Europe,Hurricane,3,0.05,11,1,Rest of World
+2025,Greece,Europe,Tornado,5,0.01,21,1,Rest of World
+2025,Greece,Europe,Tsunami,2.5,0.01,21,2,Rest of World
+2025,Hungary,Europe,Flood,3,0.17,11,1,Rest of World
+2025,Hungary,Europe,Hailstorm,5.5,0.19,61,2,Rest of World
+2025,Hungary,Europe,Landslide,2,0,8,1,Rest of World
+2025,Hungary,Europe,Tornado,6,0.12,35,1,Rest of World
+2025,Hungary,Europe,Volcanic Eruption,1,0.01,9,2,Rest of World
+2025,Hungary,Europe,Wildfire,7,0.9,638,1,Rest of World
+2025,India,Asia,Drought,2,0.98,15,1,Rest of World
+2025,India,Asia,Flood,6,0.84,43,1,Rest of World
+2025,India,Asia,Hailstorm,1,0.02,8,1,Rest of World
+2025,India,Asia,Heatwave,5.5,45.08,73,2,Rest of World
+2025,India,Asia,Hurricane,4,0.34,20,1,Rest of World
+2025,Indonesia,Asia,Drought,3.5,4.84,43,2,Rest of World
+2025,Indonesia,Asia,Flood,1,0.06,3,1,Rest of World
+2025,Indonesia,Asia,Hailstorm,6,0.26,40,1,Rest of World
+2025,Indonesia,Asia,Landslide,6,0.8899999999999999,97,2,Rest of World
+2025,Indonesia,Asia,Volcanic Eruption,3,0.04,13,1,Rest of World
+2025,Indonesia,Asia,Wildfire,4.5,4.43,50,2,Rest of World
+2025,Iraq,Asia,Flood,2,0.03,9,1,Rest of World
+2025,Iraq,Asia,Landslide,4,0.03,37,2,Rest of World
+2025,Ireland,Europe,Cold Wave,2,0.31,11,1,Rest of World
+2025,Ireland,Europe,Hailstorm,5,0.11,31,1,Rest of World
+2025,Ireland,Europe,Landslide,4,0.06999999999999999,44,2,Rest of World
+2025,Ireland,Europe,Tornado,1,0,4,1,Rest of World
+2025,Ireland,Europe,Volcanic Eruption,1,0.02,6,1,Rest of World
+2025,Israel,Asia,Earthquake,1,0,9,1,Rest of World
+2025,Israel,Asia,Flood,2,0.14,17,1,Rest of World
+2025,Israel,Asia,Hurricane,2,0.01,11,1,Rest of World
+2025,Israel,Asia,Landslide,4,0.04,19,1,Rest of World
+2025,Israel,Asia,Volcanic Eruption,2,0.04,12,1,Rest of World
+2025,Italy,Europe,Cold Wave,6,6.52,34,1,Rest of World
+2025,Italy,Europe,Drought,6,0.38,35,1,Rest of World
+2025,Italy,Europe,Flood,7,2.79,268,1,Rest of World
+2025,Italy,Europe,Hailstorm,4.666666666666667,0.75,167,3,Rest of World
+2025,Italy,Europe,Heatwave,7,18.9,176,1,Rest of World
+2025,Italy,Europe,Tsunami,1,0.01,9,1,Rest of World
+2025,Italy,Europe,Wildfire,4.666666666666667,4.4799999999999995,391,3,Rest of World
+2025,Japan,Asia,Earthquake,4,0.12,22,1,Rest of World
+2025,Japan,Asia,Flood,5.5,12.899999999999999,150,2,Rest of World
+2025,Japan,Asia,Hailstorm,2,0.26,24,2,Rest of World
+2025,Japan,Asia,Landslide,2,0.18,11,1,Rest of World
+2025,Japan,Asia,Tornado,4,0.44,23,1,Rest of World
+2025,Japan,Asia,Volcanic Eruption,6,1.71,30,1,Rest of World
+2025,Japan,Asia,Wildfire,3,2.61,19,1,Rest of World
+2025,Kazakhstan,Asia,Landslide,5.5,0.11,202,2,Rest of World
+2025,Kazakhstan,Asia,Tornado,4,0.01,16,1,Rest of World
+2025,Kazakhstan,Asia,Volcanic Eruption,1,0,8,1,Rest of World
+2025,Kazakhstan,Asia,Wildfire,1,0,5,1,Rest of World
+2025,Malaysia,Asia,Cold Wave,6,7.27,29,1,Rest of World
+2025,Malaysia,Asia,Earthquake,5,0.02,39,1,Rest of World
+2025,Malaysia,Asia,Flood,5,0.07,31,1,Rest of World
+2025,Malaysia,Asia,Hurricane,4,0.38,50,2,Rest of World
+2025,Malaysia,Asia,Landslide,5.333333333333333,0.06999999999999999,83,3,Rest of World
+2025,Malaysia,Asia,Wildfire,4,0.19,44,2,Rest of World
+2025,Mexico,Americas,Cold Wave,3,6.47,19,1,Rest of World
+2025,Mexico,Americas,Hurricane,1,0,3,1,Rest of World
+2025,Mexico,Americas,Landslide,6,0.66,36,1,Rest of World
+2025,Mexico,Americas,Tornado,2,0.19,12,1,Rest of World
+2025,Mexico,Americas,Tsunami,3,0.27,28,2,Rest of World
+2025,Netherlands,Europe,Cold Wave,4,1.11,28,1,Rest of World
+2025,Netherlands,Europe,Earthquake,1,0.01,8,1,Rest of World
+2025,Netherlands,Europe,Hailstorm,4,0.16,40,2,Rest of World
+2025,Netherlands,Europe,Hurricane,1,0.11,7,1,Rest of World
+2025,Netherlands,Europe,Tornado,2,0,8,1,Rest of World
+2025,Netherlands,Europe,Wildfire,3.5,0.24,33,2,Rest of World
+2025,New Zealand,Oceania,Cold Wave,4,0.98,24,1,Rest of World
+2025,New Zealand,Oceania,Drought,6,1,33,1,Rest of World
+2025,New Zealand,Oceania,Earthquake,1,0,9,1,Rest of World
+2025,New Zealand,Oceania,Hailstorm,5,0,26,1,Rest of World
+2025,New Zealand,Oceania,Heatwave,7,0.22,285,1,Rest of World
+2025,New Zealand,Oceania,Hurricane,2.5,0.42000000000000004,43,4,Rest of World
+2025,New Zealand,Oceania,Tornado,5,0.01,24,1,Rest of World
+2025,New Zealand,Oceania,Tsunami,1.5,0.02,18,2,Rest of World
+2025,Nigeria,Africa,Cold Wave,2,0.73,12,1,Rest of World
+2025,Nigeria,Africa,Earthquake,2.3333333333333335,0.15,39,3,Rest of World
+2025,Nigeria,Africa,Flood,4,0.45,26,1,Rest of World
+2025,Nigeria,Africa,Hurricane,1,0.05,3,1,Rest of World
+2025,Nigeria,Africa,Tornado,4,0.04,28,1,Rest of World
+2025,Nigeria,Africa,Tsunami,1,0.01,16,2,Rest of World
+2025,Pakistan,Asia,Flood,3,0.49,22,1,Rest of World
+2025,Pakistan,Asia,Hurricane,4,0.03,27,1,Rest of World
+2025,Pakistan,Asia,Tornado,1,0,4,1,Rest of World
+2025,Peru,Americas,Earthquake,3,0.02,16,1,Rest of World
+2025,Peru,Americas,Hurricane,4,0.03,25,1,Rest of World
+2025,Peru,Americas,Landslide,5,0.06,31,1,Rest of World
+2025,Peru,Americas,Tornado,3,0,15,1,Rest of World
+2025,Peru,Americas,Tsunami,2,0,8,1,Rest of World
+2025,Peru,Americas,Volcanic Eruption,1,0,7,1,Rest of World
+2025,Philippines,Asia,Drought,3,0.25,37,2,Rest of World
+2025,Philippines,Asia,Hailstorm,5,0.03,30,1,Rest of World
+2025,Philippines,Asia,Hurricane,1.5,0.03,18,2,Rest of World
+2025,Philippines,Asia,Landslide,2.5,0.04,35,2,Rest of World
+2025,Philippines,Asia,Tornado,3,0.04,14,1,Rest of World
+2025,Poland,Europe,Drought,4,0.11,22,1,Rest of World
+2025,Poland,Europe,Hailstorm,7.5,2.1,362,2,Rest of World
+2025,Poland,Europe,Hurricane,3,0.33,31,2,Rest of World
+2025,Poland,Europe,Tsunami,1,0,7,1,Rest of World
+2025,Poland,Europe,Wildfire,5.5,0.15,338,2,Rest of World
+2025,Portugal,Europe,Drought,1,0.03,3,1,Rest of World
+2025,Portugal,Europe,Flood,4,0.03,18,1,Rest of World
+2025,Portugal,Europe,Hailstorm,4,0.01,21,1,Rest of World
+2025,Portugal,Europe,Heatwave,1,0.06,5,1,Rest of World
+2025,Portugal,Europe,Landslide,8,0.23,301,1,Rest of World
+2025,Portugal,Europe,Tornado,4,0,26,1,Rest of World
+2025,Portugal,Europe,Tsunami,3,0.04,17,1,Rest of World
+2025,Portugal,Europe,Wildfire,5,0.05,19,1,Rest of World
+2025,Qatar,Asia,Cold Wave,5,0.09000000000000001,71,2,Rest of World
+2025,Qatar,Asia,Drought,4.5,1.02,51,2,Rest of World
+2025,Qatar,Asia,Earthquake,1.5,0.01,19,2,Rest of World
+2025,Qatar,Asia,Hailstorm,7,0.05,127,1,Rest of World
+2025,Qatar,Asia,Landslide,6,0.07,252,2,Rest of World
+2025,Qatar,Asia,Tornado,3,0.01,25,2,Rest of World
+2025,Romania,Europe,Cold Wave,2,0.05,16,1,Rest of World
+2025,Romania,Europe,Heatwave,2,0.29,11,1,Rest of World
+2025,Romania,Europe,Hurricane,1.6666666666666667,0.08,29,3,Rest of World
+2025,Romania,Europe,Landslide,5,0.08,63,2,Rest of World
+2025,Romania,Europe,Wildfire,2,0.06,10,1,Rest of World
+2025,Russia,Europe,Cold Wave,7,1.33,124,1,Rest of World
+2025,Russia,Europe,Drought,3.5,4.98,35,2,Rest of World
+2025,Russia,Europe,Landslide,1,0,2,1,Rest of World
+2025,Russia,Europe,Tsunami,1,0,4,1,Rest of World
+2025,Saudi Arabia,Asia,Cold Wave,5,4.35,27,1,Rest of World
+2025,Saudi Arabia,Asia,Heatwave,6,2.43,28,1,Rest of World
+2025,Singapore,Asia,Flood,6,0.72,27,1,Rest of World
+2025,Singapore,Asia,Hurricane,1,0,7,1,Rest of World
+2025,Singapore,Asia,Landslide,5,0.36,23,1,Rest of World
+2025,Singapore,Asia,Tornado,4,0.11,18,1,Rest of World
+2025,Singapore,Asia,Volcanic Eruption,3,0,22,1,Rest of World
+2025,Singapore,Asia,Wildfire,3,0.07,32,2,Rest of World
+2025,South Africa,Africa,Earthquake,3,0.01,17,1,Rest of World
+2025,South Africa,Africa,Heatwave,6,2.56,30,1,Rest of World
+2025,South Africa,Africa,Tornado,2.3333333333333335,0.03,46,3,Rest of World
+2025,South Africa,Africa,Volcanic Eruption,6,0.01,34,1,Rest of World
+2025,South Korea,Asia,Cold Wave,2,1.61,17,1,Rest of World
+2025,South Korea,Asia,Hailstorm,3,0.05,28,2,Rest of World
+2025,South Korea,Asia,Hurricane,3,0.16,14,1,Rest of World
+2025,South Korea,Asia,Landslide,1,0.02,5,1,Rest of World
+2025,South Korea,Asia,Tornado,5,1.36,17,1,Rest of World
+2025,South Korea,Asia,Volcanic Eruption,4,0.53,16,1,Rest of World
+2025,South Korea,Asia,Wildfire,3,0.18,15,1,Rest of World
+2025,Sweden,Europe,Cold Wave,6,1.67,28,1,Rest of World
+2025,Sweden,Europe,Drought,1.5,0.5800000000000001,18,2,Rest of World
+2025,Sweden,Europe,Hailstorm,3,0.07,21,1,Rest of World
+2025,Sweden,Europe,Hurricane,5,0.67,51,2,Rest of World
+2025,Sweden,Europe,Landslide,8,0.14,242,1,Rest of World
+2025,Sweden,Europe,Tornado,3,0.05,43,2,Rest of World
+2025,Sweden,Europe,Volcanic Eruption,1.5,0.06,21,2,Rest of World
+2025,Sweden,Europe,Wildfire,5,1.52,242,2,Rest of World
+2025,Switzerland,Europe,Flood,6,0.42,20,1,Rest of World
+2025,Switzerland,Europe,Heatwave,3,1.76,29,2,Rest of World
+2025,Switzerland,Europe,Hurricane,2,0.41,11,1,Rest of World
+2025,Switzerland,Europe,Landslide,7,0.21,106,1,Rest of World
+2025,Switzerland,Europe,Tornado,4,0.01,12,1,Rest of World
+2025,Switzerland,Europe,Volcanic Eruption,2,0.07,17,1,Rest of World
+2025,Switzerland,Europe,Wildfire,7,0.05,206,1,Rest of World
+2025,Thailand,Asia,Cold Wave,3,0.66,15,1,Rest of World
+2025,Thailand,Asia,Drought,5,4.23,22,1,Rest of World
+2025,Thailand,Asia,Flood,4.333333333333333,0.81,303,3,Rest of World
+2025,Thailand,Asia,Heatwave,6,9.19,225,2,Rest of World
+2025,Thailand,Asia,Hurricane,1,0.1,5,1,Rest of World
+2025,Turkey,Asia,Earthquake,1,0.01,4,1,Rest of World
+2025,Turkey,Asia,Flood,4,0.61,24,1,Rest of World
+2025,Turkey,Asia,Heatwave,1,0.39,7,1,Rest of World
+2025,Turkey,Asia,Tornado,3,0.06,16,1,Rest of World
+2025,Turkey,Asia,Volcanic Eruption,3,0.04,15,1,Rest of World
+2025,Turkey,Asia,Wildfire,6,0.3,32,1,Rest of World
+2025,UAE,Asia,Drought,7,0.34,186,1,Rest of World
+2025,UAE,Asia,Hurricane,1,0.04,4,1,Rest of World
+2025,UAE,Asia,Landslide,7,0.03,292,1,Rest of World
+2025,UAE,Asia,Volcanic Eruption,2.5,0.05,28,2,Rest of World
+2025,UAE,Asia,Wildfire,4,0.48,13,1,Rest of World
+2025,United Kingdom,Europe,Earthquake,3.5,0.6000000000000001,39,2,Rest of World
+2025,United Kingdom,Europe,Flood,4,0.87,23,1,Rest of World
+2025,United Kingdom,Europe,Heatwave,2,0.76,10,1,Rest of World
+2025,United Kingdom,Europe,Hurricane,1,0.14,5,1,Rest of World
+2025,United Kingdom,Europe,Landslide,5,0.58,33,1,Rest of World
+2025,United Kingdom,Europe,Tornado,4,0.22,22,1,Rest of World
+2025,United Kingdom,Europe,Tsunami,3,0.38999999999999996,32,2,Rest of World
+2025,United Kingdom,Europe,Volcanic Eruption,3,0.2,8,1,Rest of World
+2025,United Kingdom,Europe,Wildfire,6,9.17,51,2,Rest of World
+2025,United States,Americas,Earthquake,2,0.26,13,1,Rest of World
+2025,United States,Americas,Flood,2,2.4,12,1,Rest of World
+2025,United States,Americas,Hurricane,4,29.91,20,1,Rest of World
+2025,Vietnam,Asia,Drought,2,0,10,1,Rest of World
+2025,Vietnam,Asia,Earthquake,1,0,5,2,Rest of World
+2025,Vietnam,Asia,Hurricane,3,0.08,18,1,Rest of World
+2025,Vietnam,Asia,Landslide,6,0.16,28,1,Rest of World
+2025,Vietnam,Asia,Wildfire,4,0.05,21,1,Rest of World

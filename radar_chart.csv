@@ -1,0 +1,13 @@
+Metric,Country,Value
+Temperature,Australia_scaled,0.6967908052080592
+CO2,Australia_scaled,0.2307124194156074
+SeaLevel,Australia_scaled,0.6531042523879494
+Precipitation,Australia_scaled,1
+Humidity,Australia_scaled,0.3315086235563554
+Wind,Australia_scaled,0.7427974358602537
+Temperature,Global_scaled,0.5063532342703099
+CO2,Global_scaled,0.4885778695185755
+SeaLevel,Global_scaled,0.502581021944146
+Precipitation,Global_scaled,0.5730053217500357
+Humidity,Global_scaled,0.46876698065930544
+Wind,Global_scaled,0.5139675594145727
